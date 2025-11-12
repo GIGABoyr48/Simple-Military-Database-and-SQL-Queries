@@ -1,0 +1,101 @@
+Intel_ID,Intel_DateTime,Operation_ID,Threat_Level,Intel_Summary
+IN300,2024-02-02 05:00:00,OP001,2,Possible sniper location
+IN301,2024-05-11 16:00:00,OP298,10,High-ground enemy position
+IN302,2024-03-07 05:00:00,OP265,8,Unknown vehicle observed
+IN303,2024-05-28 22:00:00,OP030,5,High-ground enemy position
+IN304,2024-06-05 17:00:00,OP076,4,Unknown vehicle observed
+IN305,2024-03-06 09:00:00,OP148,6,Possible IED indication
+IN306,2024-06-13 16:00:00,OP156,9,Unusual radio burst detected
+IN307,2024-05-30 20:00:00,OP016,2,Unusual radio burst detected
+IN308,2024-06-08 09:00:00,OP299,4,Enemy UAV flying low
+IN309,2024-04-08 00:00:00,OP218,5,Unusual radio burst detected
+IN310,2024-04-05 21:00:00,OP277,4,High-ground enemy position
+IN311,2024-02-27 07:00:00,OP015,7,High-ground enemy position
+IN312,2024-02-21 09:00:00,OP146,7,Unusual radio burst detected
+IN313,2024-06-01 10:00:00,OP144,5,Ground disturbance spotted
+IN314,2024-01-27 00:00:00,OP253,7,Enemy UAV flying low
+IN315,2024-02-11 05:00:00,OP260,5,Unknown vehicle observed
+IN316,2024-02-13 08:00:00,OP201,2,Unusual radio burst detected
+IN317,2024-04-03 00:00:00,OP043,8,Possible IED indication
+IN318,2024-02-21 11:00:00,OP215,5,Unknown vehicle observed
+IN319,2024-03-28 13:00:00,OP289,8,Naval contact at range
+IN320,2024-01-11 17:00:00,OP254,2,Suspicious heat signature
+IN321,2024-02-13 22:00:00,OP256,6,Possible sniper location
+IN322,2024-01-15 10:00:00,OP141,5,Thermal cluster detected
+IN323,2024-03-28 04:00:00,OP139,4,Possible IED indication
+IN324,2024-05-08 05:00:00,OP119,4,Unusual radio burst detected
+IN325,2024-03-07 01:00:00,OP141,10,Unusual radio burst detected
+IN326,2024-03-01 18:00:00,OP220,7,Possible IED indication
+IN327,2024-01-20 07:00:00,OP200,8,Enemy UAV flying low
+IN328,2024-01-17 04:00:00,OP290,3,Thermal cluster detected
+IN329,2024-04-30 16:00:00,OP152,5,Possible IED indication
+IN330,2024-06-12 04:00:00,OP001,7,Ground disturbance spotted
+IN331,2024-03-25 18:00:00,OP284,8,High-ground enemy position
+IN332,2024-03-12 00:00:00,OP117,10,Suspicious heat signature
+IN333,2024-06-14 09:00:00,OP098,10,Hostile movement spotted
+IN334,2024-02-01 06:00:00,OP018,6,Possible IED indication
+IN335,2024-01-03 04:00:00,OP057,2,Ground disturbance spotted
+IN336,2024-01-23 10:00:00,OP254,5,Unknown vehicle observed
+IN337,2024-04-11 13:00:00,OP089,8,Unknown vehicle observed
+IN338,2024-03-17 09:00:00,OP207,7,High-ground enemy position
+IN339,2024-04-13 14:00:00,OP198,6,Naval contact at range
+IN340,2024-03-22 02:00:00,OP183,8,Naval contact at range
+IN341,2024-06-10 19:00:00,OP124,6,Naval contact at range
+IN342,2024-01-04 08:00:00,OP222,6,Unknown vehicle observed
+IN343,2024-02-25 07:00:00,OP165,9,Hostile movement spotted
+IN344,2024-02-19 23:00:00,OP111,10,High-ground enemy position
+IN345,2024-04-05 00:00:00,OP062,10,Possible IED indication
+IN346,2024-04-17 02:00:00,OP103,8,Hostile movement spotted
+IN347,2024-06-05 07:00:00,OP270,5,Possible IED indication
+IN348,2024-02-25 22:00:00,OP257,4,Possible IED indication
+IN349,2024-04-12 04:00:00,OP074,9,Possible IED indication
+IN350,2024-02-07 07:00:00,OP026,8,Suspicious heat signature
+IN351,2024-02-21 02:00:00,OP133,7,Unusual radio burst detected
+IN352,2024-05-20 19:00:00,OP203,10,Thermal cluster detected
+IN353,2024-05-03 17:00:00,OP219,2,Unusual radio burst detected
+IN354,2024-02-16 16:00:00,OP191,1,Possible IED indication
+IN355,2024-02-23 06:00:00,OP065,10,Possible sniper location
+IN356,2024-06-11 18:00:00,OP284,10,Suspicious heat signature
+IN357,2024-05-11 17:00:00,OP276,2,Suspicious heat signature
+IN358,2024-04-10 10:00:00,OP287,2,Patrol evasion likely
+IN359,2024-04-07 01:00:00,OP044,5,Patrol evasion likely
+IN360,2024-06-12 22:00:00,OP111,2,Unknown vehicle observed
+IN361,2024-03-07 09:00:00,OP251,8,Ground disturbance spotted
+IN362,2024-02-26 03:00:00,OP027,2,Suspicious heat signature
+IN363,2024-01-03 16:00:00,OP146,2,Naval contact at range
+IN364,2024-01-27 19:00:00,OP216,1,High-ground enemy position
+IN365,2024-03-02 17:00:00,OP185,8,Unusual radio burst detected
+IN366,2024-01-21 06:00:00,OP173,3,High-ground enemy position
+IN367,2024-03-31 02:00:00,OP125,2,Enemy UAV flying low
+IN368,2024-05-13 06:00:00,OP253,4,Ground disturbance spotted
+IN369,2024-04-02 09:00:00,OP252,4,Enemy UAV flying low
+IN370,2024-04-16 09:00:00,OP292,4,High-ground enemy position
+IN371,2024-02-13 07:00:00,OP122,3,Unknown vehicle observed
+IN372,2024-05-20 01:00:00,OP246,1,Possible IED indication
+IN373,2024-03-09 08:00:00,OP277,7,Enemy UAV flying low
+IN374,2024-01-13 15:00:00,OP097,8,Naval contact at range
+IN375,2024-01-11 19:00:00,OP056,3,Possible IED indication
+IN376,2024-01-15 11:00:00,OP296,9,Unusual radio burst detected
+IN377,2024-01-15 15:00:00,OP200,9,Enemy UAV flying low
+IN378,2024-03-21 07:00:00,OP105,8,Hostile movement spotted
+IN379,2024-05-21 10:00:00,OP280,8,Naval contact at range
+IN380,2024-02-09 04:00:00,OP165,4,Hostile movement spotted
+IN381,2024-01-09 03:00:00,OP049,4,Thermal cluster detected
+IN382,2024-01-16 13:00:00,OP268,3,Possible IED indication
+IN383,2024-04-06 17:00:00,OP273,9,High-ground enemy position
+IN384,2024-06-10 04:00:00,OP131,5,Enemy UAV flying low
+IN385,2024-02-17 20:00:00,OP289,7,Unknown vehicle observed
+IN386,2024-03-21 20:00:00,OP224,9,Suspicious heat signature
+IN387,2024-02-19 10:00:00,OP106,1,Suspicious heat signature
+IN388,2024-03-22 07:00:00,OP151,5,Possible IED indication
+IN389,2024-04-01 23:00:00,OP279,4,Ground disturbance spotted
+IN390,2024-05-28 15:00:00,OP108,10,Thermal cluster detected
+IN391,2024-01-30 23:00:00,OP045,2,High-ground enemy position
+IN392,2024-01-24 05:00:00,OP204,10,Thermal cluster detected
+IN393,2024-04-16 16:00:00,OP135,3,High-ground enemy position
+IN394,2024-04-30 22:00:00,OP197,6,Suspicious heat signature
+IN395,2024-03-06 21:00:00,OP209,1,High-ground enemy position
+IN396,2024-05-29 09:00:00,OP054,2,Thermal cluster detected
+IN397,2024-04-10 17:00:00,OP158,2,Suspicious heat signature
+IN398,2024-05-19 21:00:00,OP066,3,Enemy UAV flying low
+IN399,2024-01-10 12:00:00,OP230,3,Thermal cluster detected

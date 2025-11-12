@@ -1,0 +1,301 @@
+Squad_ID,Squad_Personnel_Count,Squad_Name,Squad_Creation_Date,Squad_Operation_Assigned,Squad_Status,Squad_Leader,Squad_Casualties,Squad_Experience,Squad_Specialisation,Squad_Rating
+3000,92,Squad-Alpha-000,2009-09-19,OP198,active,Lucas Wilson,11,17,Sniper,78
+3001,136,Squad-Ghost-001,2020-08-16,OP286,standby,Isabella Mukherjee,4,16,Recon,50
+3002,139,Squad-Delta-002,2007-04-25,OP095,reserve,Aditi Rao,3,15,Infiltration,59
+3003,82,Squad-Viper-003,2020-05-30,OP102,standby,Aditi Bhat,28,1,Cyber Ops,84
+3004,88,Squad-Echo-004,2024-03-01,OP040,reserve,Noah Singh,18,4,Infiltration,79
+3005,128,Squad-Delta-005,2023-09-25,OP102,training,Lucas Nair,2,12,Rescue,92
+3006,88,Squad-Charlie-006,2013-05-03,OP014,standby,Evelyn Iyer,12,17,Mountain Warfare,81
+3007,134,Squad-Viper-007,2017-07-04,OP195,deployed,Oliver Perez,8,6,Exfiltration,74
+3008,132,Squad-Ghost-008,2011-06-24,OP204,reserve,Riya Singh,12,19,UAV,55
+3009,132,Squad-Viper-009,2013-11-24,OP184,reserve,Krishna Kulkarni,25,17,Desert Warfare,97
+3010,80,Squad-Ghost-010,2010-04-26,OP263,active,Emma Mukherjee,15,1,Long-range Recon,79
+3011,133,Squad-Echo-011,2018-01-09,OP010,standby,Henry Miller,5,17,Medic,99
+3012,113,Squad-Ghost-012,2015-06-08,OP250,reserve,Tara Rao,2,15,Signals,99
+3013,119,Squad-Titan-013,2022-08-25,OP131,active,Aditya Bose,20,25,Exfiltration,71
+3014,103,Squad-Echo-014,2009-04-21,OP149,reserve,Emma Wilson,25,13,Desert Warfare,59
+3015,117,Squad-Bravo-015,2015-09-27,OP026,active,Kabir Martinez,27,17,Desert Warfare,70
+3016,97,Squad-Ranger-016,2008-12-22,OP119,deployed,Sophia Nair,8,20,Recon,93
+3017,70,Squad-Charlie-017,2020-10-02,OP151,training,Kabir Chopra,21,2,CBRN,95
+3018,142,Squad-Alpha-018,2024-07-10,OP015,reserve,Aarav Garcia,17,11,Maritime Ops,80
+3019,107,Squad-Titan-019,2009-07-27,OP256,reserve,Aditya Taylor,8,21,Maritime Ops,88
+3020,95,Squad-Titan-020,2007-09-26,OP125,deployed,Kiara Reddy,5,12,EOD,81
+3021,116,Squad-Ranger-021,2013-06-15,OP013,training,Harper Gupta,5,9,Long-range Recon,84
+3022,93,Squad-Ghost-022,2019-10-08,OP261,training,Saanvi Wilson,30,12,Signals,95
+3023,146,Squad-Viper-023,2006-04-28,OP239,standby,Krishna Mukherjee,16,3,UAV,77
+3024,74,Squad-Echo-024,2021-07-29,OP077,reserve,Mia Menon,1,11,Cyber Ops,100
+3025,110,Squad-Ghost-025,2020-02-14,OP233,deployed,Aditi Thompson,18,5,Anti Terrorism,84
+3026,117,Squad-Ghost-026,2012-07-18,OP296,active,Mia Sharma,23,17,Recon,96
+3027,124,Squad-Bravo-027,2009-09-06,OP164,training,Vivaan Martinez,15,4,Search and Rescue,100
+3028,100,Squad-Charlie-028,2015-09-23,OP076,standby,Meera Taylor,0,19,Perimeter Defense,58
+3029,144,Squad-Bravo-029,2016-09-12,OP066,deployed,Sophia Johnson,19,11,Exfiltration,87
+3030,74,Squad-Echo-030,2017-07-31,OP024,standby,Aarav Khan,16,24,Anti Terrorism,92
+3031,113,Squad-Foxtrot-031,2020-01-15,OP125,active,Lucas Bose,10,23,Search and Rescue,79
+3032,128,Squad-Ranger-032,2008-05-24,OP166,standby,Oliver Wilson,7,10,Long-range Recon,61
+3033,133,Squad-Charlie-033,2024-09-13,OP006,training,Riya Williams,1,4,Urban Combat,70
+3034,135,Squad-Titan-034,2020-02-17,OP129,reserve,Vihaan Das,6,18,Search and Rescue,83
+3035,109,Squad-Charlie-035,2011-04-21,OP073,active,Aditya Anderson,21,9,Infiltration,55
+3036,120,Squad-Ghost-036,2015-12-29,OP271,active,Amelia Johnson,26,11,CBRN,67
+3037,117,Squad-Bravo-037,2016-07-28,OP123,reserve,Aditya Gupta,9,3,Infiltration,68
+3038,128,Squad-Titan-038,2013-04-06,OP216,deployed,Arjun Sharma,19,2,Perimeter Defense,75
+3039,85,Squad-Delta-039,2019-05-15,OP171,standby,Emma Perez,30,18,Signals,98
+3040,90,Squad-Viper-040,2011-05-30,OP226,standby,Henry Bhat,8,21,Desert Warfare,93
+3041,107,Squad-Bravo-041,2012-10-30,OP093,deployed,Oliver Jackson,17,11,Recon,66
+3042,75,Squad-Titan-042,2020-12-30,OP178,standby,Lucas Rodriguez,3,14,Exfiltration,97
+3043,84,Squad-Ghost-043,2008-01-19,OP033,active,Vivaan Kapoor,21,12,Engineer,59
+3044,122,Squad-Ghost-044,2007-03-28,OP043,reserve,Vihaan Miller,29,24,EOD,57
+3045,88,Squad-Foxtrot-045,2016-03-12,OP263,standby,Krishna Iyer,13,3,Sniper,78
+3046,93,Squad-Viper-046,2010-04-24,OP253,deployed,Aditya Wilson,18,6,Cyber Ops,51
+3047,91,Squad-Bravo-047,2010-06-22,OP022,training,Sophia Martin,13,6,Desert Warfare,58
+3048,94,Squad-Charlie-048,2018-12-13,OP004,deployed,Mia Brown,3,22,Perimeter Defense,82
+3049,135,Squad-Charlie-049,2024-07-02,OP021,standby,William Kapoor,19,12,Sniper,86
+3050,123,Squad-Alpha-050,2017-03-21,OP093,active,Aditya Anderson,8,17,Rescue,79
+3051,123,Squad-Ranger-051,2019-02-24,OP066,standby,Aarav Moore,11,1,Recon,75
+3052,109,Squad-Ranger-052,2018-01-03,OP105,reserve,Aarav Johnson,10,1,Search and Rescue,97
+3053,111,Squad-Foxtrot-053,2016-04-15,OP078,reserve,Kiara Lee,0,9,Long-range Recon,79
+3054,91,Squad-Ranger-054,2017-06-29,OP237,standby,Ava Mukherjee,7,24,Perimeter Defense,76
+3055,138,Squad-Bravo-055,2010-10-25,OP011,active,William Jones,16,5,EOD,63
+3056,118,Squad-Ranger-056,2017-03-25,OP155,deployed,Evelyn Brown,19,21,Long-range Recon,75
+3057,150,Squad-Echo-057,2010-12-17,OP098,reserve,Mia Jones,8,18,Rescue,75
+3058,71,Squad-Ghost-058,2018-05-13,OP233,deployed,Aarav Jones,8,17,Signals,78
+3059,78,Squad-Viper-059,2013-08-10,OP139,reserve,Olivia Perez,0,24,Signals,72
+3060,118,Squad-Alpha-060,2016-10-12,OP010,training,Kiara Perez,7,2,Long-range Recon,56
+3061,99,Squad-Alpha-061,2011-08-16,OP045,deployed,Arjun Kaul,18,8,Engineer,79
+3062,70,Squad-Titan-062,2007-12-07,OP289,deployed,Ira Martin,27,20,Engineer,100
+3063,131,Squad-Charlie-063,2008-10-27,OP107,deployed,Henry Taylor,7,7,Sniper,99
+3064,138,Squad-Charlie-064,2022-03-02,OP284,active,Rudra Singh,21,5,CBRN,100
+3065,145,Squad-Bravo-065,2019-10-05,OP130,standby,Olivia Moore,3,21,Infiltration,78
+3066,139,Squad-Delta-066,2016-06-09,OP173,reserve,Elijah Miller,20,24,Urban Combat,66
+3067,110,Squad-Ghost-067,2017-07-16,OP251,reserve,Ananya Menon,4,15,Sniper,68
+3068,83,Squad-Foxtrot-068,2021-10-02,OP058,standby,Ira Banerjee,0,25,Engineer,71
+3069,83,Squad-Bravo-069,2018-12-23,OP261,reserve,Diya Jackson,28,2,Exfiltration,85
+3070,115,Squad-Ghost-070,2021-01-10,OP221,standby,Vihaan Singh,10,3,Perimeter Defense,58
+3071,75,Squad-Delta-071,2020-09-19,OP278,reserve,Zara Chopra,3,6,UAV,80
+3072,149,Squad-Alpha-072,2019-05-20,OP028,deployed,Alexander Banerjee,8,4,Desert Warfare,66
+3073,126,Squad-Titan-073,2007-07-23,OP045,standby,James Khan,29,25,Urban Combat,53
+3074,119,Squad-Echo-074,2017-11-26,OP199,training,Emma Anderson,22,24,Maritime Ops,87
+3075,149,Squad-Delta-075,2007-03-29,OP028,standby,Ananya Perez,10,17,Anti Terrorism,50
+3076,83,Squad-Titan-076,2023-08-13,OP157,reserve,Benjamin Banerjee,0,23,EOD,67
+3077,71,Squad-Charlie-077,2020-08-07,OP299,training,Benjamin Jackson,11,21,EOD,50
+3078,88,Squad-Ranger-078,2020-08-17,OP169,training,Ananya Singh,19,18,Desert Warfare,78
+3079,79,Squad-Ranger-079,2015-01-30,OP052,training,Vihaan Reddy,21,16,Recon,75
+3080,126,Squad-Charlie-080,2022-05-16,OP261,training,Isabella Rao,8,2,Exfiltration,82
+3081,126,Squad-Charlie-081,2022-09-14,OP293,active,Riya Rao,0,4,Urban Combat,66
+3082,102,Squad-Delta-082,2005-01-29,OP236,standby,Diya Taylor,15,11,CBRN,84
+3083,107,Squad-Viper-083,2016-09-17,OP108,active,Noah Thompson,22,23,Exfiltration,98
+3084,137,Squad-Titan-084,2012-10-21,OP107,active,Riya Brown,4,10,Desert Warfare,69
+3085,82,Squad-Titan-085,2021-07-13,OP017,reserve,Oliver Banerjee,8,12,Infiltration,92
+3086,81,Squad-Titan-086,2011-10-22,OP030,training,Rudra Kapoor,30,14,EOD,65
+3087,108,Squad-Titan-087,2007-04-13,OP174,reserve,Noah Nair,8,25,Anti Terrorism,78
+3088,112,Squad-Echo-088,2009-12-31,OP147,active,Harper Kaul,5,11,CBRN,76
+3089,107,Squad-Titan-089,2016-09-30,OP129,reserve,Kabir Mukherjee,26,23,Exfiltration,80
+3090,103,Squad-Alpha-090,2007-04-21,OP113,training,Isabella Taylor,27,1,Desert Warfare,84
+3091,125,Squad-Ranger-091,2018-04-08,OP043,deployed,James Kaul,24,9,Anti Terrorism,58
+3092,122,Squad-Echo-092,2010-11-04,OP170,training,Sophia Kaul,9,3,Signals,98
+3093,98,Squad-Delta-093,2019-10-16,OP146,reserve,Aditya Perez,26,22,UAV,56
+3094,120,Squad-Bravo-094,2006-05-21,OP136,active,Liam Reddy,29,25,Medic,68
+3095,135,Squad-Delta-095,2020-03-18,OP233,reserve,Kiara Menon,15,1,Medic,60
+3096,75,Squad-Bravo-096,2017-10-31,OP134,standby,Kiara Iyer,11,18,Anti Terrorism,51
+3097,96,Squad-Delta-097,2015-11-15,OP247,reserve,Krishna Johnson,6,5,Recon,69
+3098,81,Squad-Charlie-098,2014-04-19,OP254,reserve,Diya Taylor,19,16,Desert Warfare,67
+3099,74,Squad-Ghost-099,2011-11-30,OP046,standby,Tara Verma,17,6,Search and Rescue,77
+3100,134,Squad-Titan-100,2007-09-30,OP011,standby,Ira Khan,12,21,Long-range Recon,59
+3101,122,Squad-Viper-101,2008-09-15,OP129,training,Harper Thompson,5,5,Exfiltration,84
+3102,72,Squad-Alpha-102,2024-05-17,OP014,training,Abigail Kapoor,21,8,Urban Combat,75
+3103,118,Squad-Echo-103,2006-06-01,OP038,standby,Vihaan Jackson,6,18,Sniper,92
+3104,82,Squad-Bravo-104,2007-12-11,OP233,training,Sophia Nair,16,19,Long-range Recon,62
+3105,77,Squad-Alpha-105,2021-11-06,OP298,deployed,Sophia Nair,5,21,Long-range Recon,72
+3106,149,Squad-Charlie-106,2005-09-09,OP270,training,Olivia Jackson,23,23,Recon,95
+3107,100,Squad-Ranger-107,2022-03-04,OP176,standby,Oliver Johnson,27,16,Search and Rescue,58
+3108,91,Squad-Echo-108,2018-09-05,OP259,standby,Olivia Reddy,5,8,Exfiltration,86
+3109,104,Squad-Titan-109,2016-10-04,OP209,standby,Liam Garcia,22,12,Maritime Ops,99
+3110,96,Squad-Ghost-110,2015-04-11,OP040,deployed,Ava Bose,15,15,Exfiltration,88
+3111,81,Squad-Bravo-111,2012-05-12,OP239,reserve,Aditi Mukherjee,9,14,Cyber Ops,86
+3112,114,Squad-Delta-112,2007-09-03,OP248,training,Krishna Sharma,7,12,Anti Terrorism,85
+3113,85,Squad-Titan-113,2005-12-30,OP133,standby,Riya Jackson,11,18,Maritime Ops,63
+3114,105,Squad-Ghost-114,2011-04-18,OP043,reserve,Alexander Singh,23,24,EOD,97
+3115,83,Squad-Bravo-115,2010-07-11,OP264,standby,Krishna Sharma,5,12,Rescue,65
+3116,76,Squad-Echo-116,2023-06-01,OP206,deployed,Rudra Patel,17,12,Signals,68
+3117,144,Squad-Ranger-117,2014-12-17,OP163,active,Mia Iyer,27,21,Sniper,85
+3118,126,Squad-Ghost-118,2017-05-03,OP242,standby,Abigail Iyer,20,14,Recon,54
+3119,142,Squad-Delta-119,2012-10-22,OP032,reserve,Elijah Rodriguez,11,13,Rescue,90
+3120,90,Squad-Ghost-120,2016-01-10,OP196,deployed,Benjamin Menon,28,16,UAV,97
+3121,85,Squad-Viper-121,2015-07-20,OP089,deployed,Aditi Patel,11,22,Medic,54
+3122,107,Squad-Alpha-122,2017-01-21,OP121,reserve,Isabella Nair,22,14,Urban Combat,90
+3123,142,Squad-Bravo-123,2008-07-16,OP238,training,Diya Iyer,16,21,Anti Terrorism,79
+3124,93,Squad-Echo-124,2016-12-30,OP028,reserve,Saanvi Rao,0,14,Signals,68
+3125,78,Squad-Charlie-125,2008-02-08,OP188,training,Abigail Wilson,11,9,Rescue,74
+3126,136,Squad-Charlie-126,2023-09-24,OP179,active,Harper Kapoor,23,20,CBRN,72
+3127,121,Squad-Foxtrot-127,2005-01-07,OP164,reserve,Amelia Bose,7,23,Mountain Warfare,73
+3128,120,Squad-Charlie-128,2022-03-27,OP004,training,Krishna Perez,5,4,Search and Rescue,55
+3129,125,Squad-Ranger-129,2007-08-30,OP217,standby,Vivaan Martinez,12,24,Infiltration,61
+3130,139,Squad-Foxtrot-130,2015-08-26,OP125,standby,Ishaan Kapoor,13,24,Exfiltration,55
+3131,110,Squad-Foxtrot-131,2015-11-08,OP177,active,Amelia Smith,19,15,Engineer,52
+3132,109,Squad-Charlie-132,2015-07-12,OP201,training,Emma Kulkarni,27,12,CBRN,71
+3133,92,Squad-Ranger-133,2020-01-24,OP105,training,Evelyn Miller,8,18,Urban Combat,87
+3134,137,Squad-Delta-134,2023-12-13,OP261,standby,Meera Rao,24,7,Medic,68
+3135,132,Squad-Bravo-135,2019-08-03,OP105,reserve,Krishna Martinez,23,6,Urban Combat,66
+3136,145,Squad-Ghost-136,2014-03-27,OP169,deployed,James Garcia,28,11,Maritime Ops,65
+3137,122,Squad-Charlie-137,2022-05-19,OP019,deployed,Mia Anderson,11,16,Exfiltration,61
+3138,71,Squad-Viper-138,2022-12-24,OP247,training,Benjamin Patel,2,24,Exfiltration,54
+3139,70,Squad-Charlie-139,2007-08-02,OP025,active,Kiara Martinez,10,11,Desert Warfare,74
+3140,144,Squad-Echo-140,2012-06-20,OP001,deployed,Saanvi Garcia,3,8,Anti Terrorism,88
+3141,79,Squad-Ranger-141,2006-12-11,OP112,reserve,Emma Das,15,12,Anti Terrorism,90
+3142,92,Squad-Bravo-142,2010-01-29,OP119,reserve,Zara Martin,22,3,Desert Warfare,90
+3143,138,Squad-Ranger-143,2016-08-08,OP298,training,Evelyn Martinez,7,13,Engineer,81
+3144,95,Squad-Ranger-144,2006-02-23,OP011,deployed,Amelia Kapoor,3,9,Desert Warfare,56
+3145,130,Squad-Ghost-145,2006-02-05,OP063,active,Aarav Taylor,8,5,Engineer,93
+3146,99,Squad-Alpha-146,2015-09-17,OP007,standby,Ishaan Martinez,2,2,Anti Terrorism,67
+3147,104,Squad-Ghost-147,2006-03-05,OP046,reserve,Aditi Bose,24,7,Recon,79
+3148,136,Squad-Ghost-148,2023-11-10,OP256,active,Henry Menon,17,2,Perimeter Defense,97
+3149,103,Squad-Ghost-149,2008-11-20,OP139,reserve,Vivaan Verma,30,8,CBRN,94
+3150,97,Squad-Charlie-150,2022-10-04,OP019,reserve,Alexander Gupta,24,13,CBRN,51
+3151,108,Squad-Bravo-151,2020-05-22,OP017,reserve,Oliver Das,1,9,Rescue,61
+3152,115,Squad-Charlie-152,2020-05-11,OP063,deployed,Tara Garcia,23,6,Mountain Warfare,64
+3153,109,Squad-Titan-153,2009-06-09,OP261,standby,Aditi Thomas,30,17,Sniper,93
+3154,129,Squad-Bravo-154,2010-12-18,OP185,active,Rudra Martinez,25,21,Engineer,88
+3155,128,Squad-Ranger-155,2018-09-02,OP047,deployed,Henry Jackson,30,15,Search and Rescue,73
+3156,123,Squad-Bravo-156,2020-03-27,OP115,training,Aditi Jones,6,16,Cyber Ops,58
+3157,147,Squad-Ghost-157,2012-12-22,OP057,deployed,Diya Iyer,22,5,Infiltration,79
+3158,127,Squad-Delta-158,2009-11-01,OP093,active,Rudra Bose,24,3,Signals,96
+3159,119,Squad-Foxtrot-159,2014-08-03,OP027,active,Aditi Das,28,5,Search and Rescue,84
+3160,110,Squad-Titan-160,2006-08-04,OP077,active,Olivia Mukherjee,14,24,Search and Rescue,57
+3161,118,Squad-Alpha-161,2007-08-16,OP190,active,Lucas Mukherjee,14,19,Search and Rescue,99
+3162,105,Squad-Echo-162,2020-08-18,OP196,training,Henry Patel,10,10,Urban Combat,87
+3163,126,Squad-Echo-163,2017-10-15,OP012,standby,Abigail Gupta,12,12,Anti Terrorism,60
+3164,133,Squad-Viper-164,2008-03-22,OP157,standby,Alexander Garcia,25,16,Maritime Ops,92
+3165,119,Squad-Ghost-165,2009-04-23,OP019,training,Vihaan Martin,14,14,EOD,58
+3166,91,Squad-Ghost-166,2007-04-14,OP095,training,James Kaul,22,21,UAV,51
+3167,75,Squad-Ranger-167,2010-07-02,OP250,reserve,Kabir Perez,11,12,Urban Combat,92
+3168,80,Squad-Ghost-168,2010-02-01,OP116,deployed,Ava Anderson,14,18,UAV,68
+3169,128,Squad-Titan-169,2020-07-26,OP045,active,Ava Khan,29,15,Rescue,91
+3170,117,Squad-Echo-170,2019-01-31,OP278,training,Amelia Khan,29,9,Urban Combat,72
+3171,132,Squad-Viper-171,2010-11-24,OP162,training,Aarav Das,12,15,Engineer,99
+3172,137,Squad-Echo-172,2009-12-06,OP041,reserve,Benjamin Mukherjee,2,5,Search and Rescue,84
+3173,83,Squad-Viper-173,2013-09-01,OP127,training,Alexander Martin,12,25,Sniper,82
+3174,101,Squad-Delta-174,2014-09-13,OP243,training,Vivaan Jackson,28,21,Sniper,84
+3175,128,Squad-Charlie-175,2009-05-02,OP006,deployed,Kabir Thomas,5,24,Medic,100
+3176,94,Squad-Viper-176,2007-09-24,OP197,training,Ishaan Martin,6,17,Recon,86
+3177,93,Squad-Bravo-177,2024-06-27,OP093,active,Alexander Rodriguez,27,19,EOD,87
+3178,87,Squad-Alpha-178,2014-12-21,OP013,active,Elijah Thompson,6,19,Long-range Recon,96
+3179,73,Squad-Echo-179,2020-07-26,OP215,standby,Arjun Lee,30,21,Sniper,71
+3180,89,Squad-Viper-180,2024-12-02,OP019,active,Isabella Das,23,15,Long-range Recon,71
+3181,108,Squad-Foxtrot-181,2009-05-29,OP291,standby,Abigail Das,20,13,Desert Warfare,64
+3182,89,Squad-Echo-182,2018-02-15,OP054,deployed,Ira Sharma,11,12,Signals,86
+3183,82,Squad-Echo-183,2020-07-01,OP144,reserve,Krishna Sharma,16,13,Medic,74
+3184,102,Squad-Echo-184,2022-06-10,OP209,standby,Arjun Lee,23,17,Desert Warfare,76
+3185,77,Squad-Titan-185,2016-06-16,OP248,reserve,Saanvi Taylor,26,4,Maritime Ops,90
+3186,130,Squad-Alpha-186,2018-08-21,OP300,training,Emma Nair,26,9,Infiltration,88
+3187,148,Squad-Foxtrot-187,2009-12-02,OP289,standby,Benjamin Banerjee,19,8,Exfiltration,91
+3188,103,Squad-Charlie-188,2018-01-25,OP050,active,Zara Khan,6,6,Search and Rescue,50
+3189,142,Squad-Delta-189,2020-10-05,OP001,standby,Aarav Kaul,29,21,Recon,75
+3190,99,Squad-Charlie-190,2020-01-02,OP261,standby,Aditi Gupta,27,23,CBRN,90
+3191,115,Squad-Viper-191,2010-04-22,OP140,active,Aditya Khan,4,24,Cyber Ops,67
+3192,78,Squad-Ranger-192,2017-08-22,OP281,training,Ira Patel,26,12,Engineer,57
+3193,127,Squad-Charlie-193,2005-06-06,OP193,standby,Zara Davis,11,7,Recon,71
+3194,110,Squad-Alpha-194,2024-10-26,OP064,standby,Saanvi Smith,12,22,Perimeter Defense,69
+3195,130,Squad-Titan-195,2011-03-23,OP023,training,Sai Nair,29,14,CBRN,62
+3196,131,Squad-Echo-196,2011-09-06,OP078,deployed,Amelia Verma,20,12,Mountain Warfare,100
+3197,96,Squad-Ghost-197,2014-03-28,OP115,deployed,Henry Martin,3,21,Engineer,94
+3198,84,Squad-Viper-198,2010-07-12,OP225,standby,Emma Miller,0,25,Anti Terrorism,83
+3199,140,Squad-Foxtrot-199,2013-08-16,OP061,active,Meera Menon,5,9,Search and Rescue,69
+3200,109,Squad-Echo-200,2021-11-14,OP128,deployed,Aarav Moore,7,17,Engineer,100
+3201,139,Squad-Ranger-201,2023-10-27,OP019,active,Diya Anderson,21,11,Rescue,95
+3202,96,Squad-Echo-202,2005-03-22,OP052,active,Noah Jones,3,1,Recon,63
+3203,91,Squad-Titan-203,2016-12-17,OP207,deployed,Oliver Singh,27,15,Exfiltration,56
+3204,98,Squad-Titan-204,2011-12-27,OP107,standby,Diya Thomas,28,6,Desert Warfare,76
+3205,104,Squad-Titan-205,2007-03-06,OP195,reserve,Evelyn Khan,1,19,CBRN,91
+3206,85,Squad-Ranger-206,2007-12-21,OP046,standby,Saanvi Bose,0,9,Signals,79
+3207,87,Squad-Alpha-207,2022-06-13,OP236,deployed,Zara Chopra,25,2,Perimeter Defense,68
+3208,127,Squad-Ranger-208,2024-06-11,OP044,training,Saanvi Sharma,10,4,CBRN,91
+3209,83,Squad-Foxtrot-209,2018-11-17,OP162,training,Sophia Thomas,1,22,Sniper,72
+3210,142,Squad-Viper-210,2022-01-19,OP017,reserve,James Smith,29,7,Maritime Ops,88
+3211,129,Squad-Echo-211,2019-04-07,OP243,training,Elijah Das,10,4,Medic,66
+3212,117,Squad-Charlie-212,2022-04-11,OP017,active,Olivia Patel,9,3,Rescue,77
+3213,92,Squad-Charlie-213,2012-11-03,OP247,training,Alexander Das,12,5,Anti Terrorism,74
+3214,79,Squad-Ranger-214,2011-06-07,OP108,training,Meera Thompson,22,8,Infiltration,95
+3215,78,Squad-Ranger-215,2006-06-30,OP118,standby,Ananya Gupta,10,12,Anti Terrorism,62
+3216,145,Squad-Foxtrot-216,2007-07-20,OP196,deployed,Aarav Banerjee,7,13,Cyber Ops,89
+3217,107,Squad-Foxtrot-217,2018-10-15,OP148,deployed,Abigail Smith,13,22,Infiltration,50
+3218,108,Squad-Titan-218,2013-04-08,OP141,standby,Krishna Das,15,4,Exfiltration,99
+3219,118,Squad-Foxtrot-219,2006-12-20,OP280,standby,Elijah Sharma,7,22,Sniper,93
+3220,89,Squad-Ghost-220,2016-11-03,OP119,reserve,Ira Wilson,14,14,Medic,88
+3221,123,Squad-Alpha-221,2008-01-02,OP131,deployed,Saanvi Bose,14,18,Cyber Ops,94
+3222,74,Squad-Titan-222,2006-11-11,OP156,training,Isabella Garcia,15,11,Sniper,100
+3223,138,Squad-Bravo-223,2014-02-06,OP101,reserve,Harper Lee,10,5,Mountain Warfare,77
+3224,111,Squad-Viper-224,2018-03-28,OP268,standby,Harper Perez,4,18,Perimeter Defense,60
+3225,150,Squad-Foxtrot-225,2013-08-19,OP158,deployed,Kiara Thompson,19,17,EOD,50
+3226,105,Squad-Echo-226,2011-04-07,OP066,deployed,Sophia Mukherjee,22,10,Sniper,50
+3227,85,Squad-Alpha-227,2016-06-26,OP070,active,Meera Rodriguez,21,7,Engineer,91
+3228,130,Squad-Bravo-228,2024-10-29,OP089,active,Benjamin Das,25,6,Cyber Ops,64
+3229,114,Squad-Foxtrot-229,2011-06-12,OP014,deployed,Aarav Khan,6,1,Urban Combat,92
+3230,129,Squad-Alpha-230,2006-04-05,OP295,standby,Mia Rodriguez,0,18,Cyber Ops,63
+3231,149,Squad-Ranger-231,2016-04-02,OP267,deployed,Riya Jackson,10,12,Search and Rescue,83
+3232,104,Squad-Ghost-232,2012-01-02,OP264,active,Rudra Sharma,15,10,Maritime Ops,76
+3233,83,Squad-Foxtrot-233,2019-11-13,OP174,deployed,Emma Kaul,14,18,Desert Warfare,79
+3234,115,Squad-Bravo-234,2010-01-19,OP084,training,Ava Verma,16,21,Sniper,60
+3235,90,Squad-Titan-235,2007-02-08,OP273,training,Harper Martinez,26,13,Cyber Ops,57
+3236,108,Squad-Echo-236,2023-04-28,OP175,deployed,Krishna Banerjee,10,8,Cyber Ops,64
+3237,140,Squad-Viper-237,2023-11-28,OP272,deployed,Mia Martinez,23,23,Anti Terrorism,52
+3238,134,Squad-Foxtrot-238,2007-02-28,OP196,standby,Tara Reddy,1,18,Engineer,82
+3239,132,Squad-Ghost-239,2023-01-24,OP182,active,William Patel,24,18,Infiltration,72
+3240,95,Squad-Ranger-240,2022-07-02,OP264,training,Isabella Das,8,21,Sniper,61
+3241,148,Squad-Echo-241,2007-02-21,OP035,training,Ananya Verma,8,12,Exfiltration,51
+3242,121,Squad-Charlie-242,2020-07-30,OP110,standby,Harper Brown,15,23,Search and Rescue,76
+3243,115,Squad-Bravo-243,2023-11-15,OP080,reserve,Abigail Taylor,12,14,Signals,75
+3244,76,Squad-Echo-244,2019-03-19,OP207,deployed,Meera Nair,20,12,Sniper,66
+3245,106,Squad-Delta-245,2012-03-23,OP191,deployed,Aditi Kaul,25,23,Urban Combat,65
+3246,103,Squad-Delta-246,2023-03-14,OP154,reserve,Tara Menon,3,6,Perimeter Defense,69
+3247,147,Squad-Bravo-247,2018-03-18,OP144,standby,James Anderson,2,9,Maritime Ops,99
+3248,140,Squad-Viper-248,2006-01-27,OP017,standby,Meera Chopra,22,24,Medic,97
+3249,85,Squad-Viper-249,2016-12-03,OP010,standby,Lucas Reddy,20,20,Signals,55
+3250,104,Squad-Bravo-250,2012-07-13,OP273,reserve,Mia Bhat,8,22,Search and Rescue,99
+3251,73,Squad-Delta-251,2019-02-19,OP223,active,Aarav Martin,15,17,Rescue,75
+3252,93,Squad-Titan-252,2018-12-12,OP094,reserve,Zara Williams,23,2,Exfiltration,55
+3253,105,Squad-Ghost-253,2008-06-23,OP059,active,Kabir Kulkarni,15,1,Signals,57
+3254,95,Squad-Ranger-254,2009-09-10,OP010,standby,Henry Das,7,11,Sniper,83
+3255,71,Squad-Viper-255,2023-09-05,OP124,active,Henry Rao,3,4,Anti Terrorism,78
+3256,137,Squad-Bravo-256,2023-12-17,OP203,active,Elijah Gupta,7,15,CBRN,55
+3257,92,Squad-Foxtrot-257,2020-09-22,OP097,standby,Benjamin Jones,23,17,Recon,77
+3258,111,Squad-Viper-258,2022-09-23,OP066,active,Sophia Rao,2,8,Engineer,64
+3259,131,Squad-Delta-259,2018-11-08,OP137,active,Kabir Iyer,14,10,Infiltration,52
+3260,101,Squad-Echo-260,2023-04-16,OP077,deployed,Aditya Bose,26,3,Search and Rescue,72
+3261,125,Squad-Ghost-261,2023-04-19,OP239,deployed,Saanvi Martinez,24,12,Rescue,84
+3262,149,Squad-Delta-262,2018-10-07,OP197,standby,Isabella Patel,18,5,CBRN,94
+3263,110,Squad-Bravo-263,2012-06-16,OP034,active,Mia Rao,29,7,Urban Combat,59
+3264,104,Squad-Echo-264,2006-10-04,OP275,deployed,Kabir Sharma,7,17,Sniper,71
+3265,136,Squad-Charlie-265,2007-07-26,OP019,active,Benjamin Iyer,23,9,Cyber Ops,83
+3266,94,Squad-Echo-266,2012-11-21,OP275,active,Kiara Davis,2,9,EOD,65
+3267,74,Squad-Charlie-267,2018-05-24,OP250,active,Isabella Williams,0,24,Long-range Recon,82
+3268,80,Squad-Charlie-268,2009-07-04,OP109,reserve,Arjun Anderson,3,4,Infiltration,73
+3269,140,Squad-Foxtrot-269,2024-09-12,OP066,standby,Sophia Garcia,13,7,Perimeter Defense,66
+3270,80,Squad-Alpha-270,2023-11-03,OP224,deployed,Tara Chopra,6,9,Perimeter Defense,76
+3271,138,Squad-Foxtrot-271,2008-10-01,OP147,training,Isabella Das,20,13,Medic,60
+3272,125,Squad-Ghost-272,2005-08-15,OP120,active,Rudra Garcia,12,11,Long-range Recon,89
+3273,121,Squad-Foxtrot-273,2006-12-16,OP002,reserve,Evelyn Banerjee,1,10,Medic,69
+3274,107,Squad-Viper-274,2019-08-30,OP261,active,Lucas Singh,20,12,Long-range Recon,89
+3275,123,Squad-Ghost-275,2016-04-25,OP222,reserve,Elijah Iyer,21,15,Signals,85
+3276,97,Squad-Bravo-276,2006-06-24,OP029,standby,Saanvi Iyer,4,8,Signals,92
+3277,126,Squad-Alpha-277,2010-06-20,OP009,deployed,Abigail Anderson,18,3,Maritime Ops,86
+3278,82,Squad-Viper-278,2016-08-11,OP197,reserve,Benjamin Miller,13,19,Sniper,51
+3279,101,Squad-Bravo-279,2023-10-25,OP080,training,Alexander Johnson,7,12,Long-range Recon,62
+3280,148,Squad-Echo-280,2010-08-22,OP193,training,Liam Kapoor,23,5,UAV,98
+3281,136,Squad-Foxtrot-281,2023-03-11,OP009,standby,Elijah Kapoor,5,5,Perimeter Defense,98
+3282,105,Squad-Titan-282,2019-03-29,OP084,reserve,Sophia Patel,2,7,Signals,50
+3283,130,Squad-Bravo-283,2008-08-09,OP011,standby,Ava Khan,7,16,Recon,93
+3284,82,Squad-Ranger-284,2006-02-20,OP008,active,Noah Bhat,26,19,Perimeter Defense,61
+3285,96,Squad-Bravo-285,2011-03-09,OP078,deployed,Riya Kulkarni,17,12,Medic,55
+3286,101,Squad-Titan-286,2023-01-23,OP090,deployed,Aditya Williams,16,11,Medic,87
+3287,78,Squad-Alpha-287,2023-02-02,OP060,training,Lucas Johnson,23,21,CBRN,58
+3288,133,Squad-Charlie-288,2006-03-17,OP065,reserve,Harper Rodriguez,25,4,Rescue,73
+3289,97,Squad-Delta-289,2020-06-20,OP093,training,James Moore,16,4,CBRN,95
+3290,134,Squad-Ghost-290,2024-04-20,OP034,training,Mia Reddy,25,11,Infiltration,77
+3291,88,Squad-Viper-291,2018-05-02,OP218,deployed,Aditi Kulkarni,5,25,Engineer,98
+3292,90,Squad-Foxtrot-292,2020-06-09,OP174,standby,Zara Jackson,2,4,Rescue,70
+3293,114,Squad-Bravo-293,2023-10-30,OP185,deployed,Harper Moore,9,12,Search and Rescue,72
+3294,140,Squad-Ghost-294,2011-02-17,OP154,active,Benjamin Brown,5,4,UAV,51
+3295,134,Squad-Titan-295,2010-07-15,OP028,standby,Aarav Khan,3,9,Long-range Recon,71
+3296,113,Squad-Ranger-296,2011-06-14,OP150,standby,Aarav Mukherjee,24,10,Urban Combat,78
+3297,118,Squad-Ranger-297,2007-07-22,OP178,training,Arjun Anderson,28,1,Recon,87
+3298,141,Squad-Alpha-298,2015-02-04,OP275,standby,Evelyn Banerjee,2,21,Anti Terrorism,59
+3299,74,Squad-Foxtrot-299,2018-12-21,OP229,standby,Krishna Reddy,0,22,Urban Combat,79

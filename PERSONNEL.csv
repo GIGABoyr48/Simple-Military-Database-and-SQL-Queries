@@ -1,0 +1,301 @@
+First_Name,Last_Name,Government_ID,DOB,1st_Contact_Relative_Contact_ID,Home_City,ArmedServices_ID,Squad_ID,Branch,Blood_Group,Current_Rank,Current_Operation_Assigned,Current_Operation_Role_Assigned,Personnel_Status,Response_Days
+Arjun,Martin,GOV-LE915KMM,1978-11-13,CT-834728,Leeds,AS-4EHHPW,3032,Logistics,AB-,Private,OP054,Analyst,reserve,15
+Arjun,Thompson,GOV-30C9L9Y5,2006-03-17,CT-119817,Jaipur,AS-04K82S,3010,Army,AB-,Colonel,OP286,Sniper,active,7
+Sai,Sharma,GOV-RPXH4PO2,2008-09-26,CT-321408,Espoo,AS-2YH26O,3047,Army,B-,Corporal,OP117,Recon,active,7
+James,Rao,GOV-K3O9I6EA,1971-09-20,CT-941003,George Town,AS-6956RY,3195,Air Force,B-,Lieutenant,OP119,Medic,active,1
+Noah,Thomas,GOV-T5HIG8ZX,1976-11-15,CT-620495,Fukuoka,AS-YYZES6,3005,Navy,A-,Lieutenant,OP190,Sniper,active,2
+Zara,Kaul,GOV-CILWXN3N,1982-11-02,CT-568759,Toulouse,AS-IPL3B6,3177,Logistics,A-,Brigadier,OP048,EOD,active,5
+Amelia,Menon,GOV-D6S5F44X,1982-03-26,CT-101972,Brisbane,AS-OB3FAI,3070,Logistics,A-,Corporal,OP172,Communications,active,3
+Ira,Kapoor,GOV-OZGNME0Z,1991-04-01,CT-445238,Bergen,AS-M37SR1,3160,Navy,B-,Sergeant,OP011,Medic,active,4
+Benjamin,Das,GOV-JFMOAT1W,1977-03-05,CT-922568,Stockholm,AS-SCH2WS,3053,Army,B+,Lieutenant,OP265,Analyst,active,4
+Benjamin,Martin,GOV-VUP14QIM,1973-03-21,CT-167552,Guangzhou,AS-B9K7GP,3003,Air Force,B+,Major,OP101,Rifleman,active,2
+Elijah,Banerjee,GOV-6KQ1LJN0,1977-08-01,CT-516361,Liverpool,AS-3FZUUM,3112,Cyber,B+,Private,OP101,Rifleman,active,2
+Isabella,Patel,GOV-X4EE1XIU,2000-12-08,CT-319705,Medan,AS-VQPPBZ,3293,Special Forces,O-,Brigadier,OP128,Operator,recovering,33
+Abigail,Martin,GOV-STR5CWOR,1965-01-28,CT-732029,Saint Petersburg,AS-54UA3H,3137,Special Forces,B+,Brigadier,OP012,Engineer,retired,0
+Ananya,Reddy,GOV-BWUFD767,1997-06-27,CT-564878,Shenzhen,AS-9ZR88O,3139,Navy,B-,Corporal,OP298,Recon,recovering,72
+Vivaan,Smith,GOV-8DA1PXVN,1982-09-06,CT-134779,Da Nang,AS-GP9Q98,3153,Logistics,AB-,Brigadier,OP092,Recon,active,7
+Isabella,Rodriguez,GOV-9Z1W34X2,2002-12-06,CT-812424,Moscow,AS-4GNBGI,3238,Navy,A+,Corporal,OP141,Drone Operator,reserve,9
+Isabella,Sharma,GOV-0XBCAMY0,1981-01-03,CT-784867,Oslo,AS-Z90DUY,3226,Signals,AB-,Captain,OP269,Pilot,retired,0
+Aarav,Patel,GOV-8EKDQUZV,1969-11-28,CT-444810,Madrid,AS-WRTGAQ,3208,Medical,A-,Colonel,OP287,EOD,reserve,7
+Ishaan,Sharma,GOV-OYUCZCP5,2001-10-09,CT-344366,Mombasa,AS-SI5858,3170,Medical,O+,Lieutenant,OP264,Drone Operator,recovering,84
+Riya,Kulkarni,GOV-EGUGX5FY,1967-01-20,CT-688678,Ottawa,AS-FJDIGF,3065,Air Force,O+,Colonel,OP107,Medic,active,1
+Krishna,Kapoor,GOV-8Q2B1LLT,1974-01-29,CT-045716,Berlin,AS-QRZUIK,3171,Army,B+,Brigadier,OP003,Pilot,active,6
+Benjamin,Das,GOV-KU8J3C5G,2005-09-14,CT-333863,Beijing,AS-LODI5I,3267,Air Force,B-,Major,OP231,Analyst,active,4
+Elijah,Miller,GOV-6DM9EVKI,1965-12-20,CT-119538,Sapporo,AS-JC4CFD,3243,Cyber,O-,Captain,OP008,Recon,active,1
+Kiara,Nair,GOV-G9L0AQQ4,1973-03-14,CT-258184,Tampere,AS-EM47V4,3149,Medical,A-,Corporal,OP295,Rifleman,active,3
+Zara,Menon,GOV-LER3EPM9,1966-09-02,CT-958469,Calgary,AS-SB5VN5,3004,Army,B+,Brigadier,OP231,Communications,active,6
+Noah,Gupta,GOV-6OTMGOA8,1979-03-28,CT-493189,Mumbai,AS-K86S20,3024,Navy,B+,Corporal,OP019,Communications,recovering,57
+Aarav,Iyer,GOV-DJ2GP0B2,1988-01-30,CT-313314,Seattle,AS-1KX75F,3015,Army,AB-,Private,OP119,Recon,active,5
+Harper,Jackson,GOV-I6FK0YD0,1965-08-17,CT-576598,Naples,AS-CLTI3D,3081,Navy,AB+,Captain,OP068,Signals,active,4
+Noah,Sharma,GOV-LBHOZWBU,1985-05-12,CT-002417,Boston,AS-EV0VI3,3083,Medical,O+,Colonel,OP075,Operator,active,1
+Elijah,Martinez,GOV-U7JKJQRZ,1982-11-02,CT-220358,Milan,AS-9TX5YT,3274,Navy,B-,Corporal,OP094,Medic,retired,0
+Olivia,Khan,GOV-73SUR43V,1976-04-12,CT-787219,Shanghai,AS-2CB524,3142,Navy,O-,Brigadier,OP203,Analyst,active,2
+Vivaan,Jones,GOV-AUW98F94,1990-11-30,CT-513003,Tampere,AS-37FFHV,3034,Medical,AB+,Sergeant,OP256,Rifleman,active,5
+Vivaan,Bhat,GOV-HUV2JS4Z,1969-05-02,CT-933142,Gothenburg,AS-FE36RK,3275,Special Forces,AB-,Corporal,OP240,Engineer,reserve,11
+Sophia,Das,GOV-MBT31FXF,1982-05-25,CT-056395,Seville,AS-MA6OLR,3022,Air Force,A-,Private,OP020,Operator,active,7
+William,Singh,GOV-Q57POPZB,1970-09-04,CT-335459,Tampere,AS-TTV6KZ,3265,Navy,B-,Major,OP011,Operator,retired,0
+Rudra,Williams,GOV-3QUTEHJI,1967-04-05,CT-362241,Hyderabad,AS-H1P95V,3237,Cyber,A-,Brigadier,OP129,Operator,reserve,8
+Amelia,Khan,GOV-AAVXPV43,2002-04-21,CT-602336,Bergen,AS-CEBRIJ,3101,Air Force,O+,Brigadier,OP213,Rifleman,recovering,46
+Henry,Perez,GOV-RX4VW4S1,1969-07-09,CT-646844,Hyderabad,AS-JLYK7R,3003,Army,O-,Private,OP071,Engineer,active,1
+Alexander,Wilson,GOV-4U9VBNQ1,2007-04-26,CT-169331,Galle,AS-UECK8V,3104,Navy,AB+,Major,OP154,Recon,reserve,18
+Vihaan,Mukherjee,GOV-CJVASKC1,1990-05-17,CT-516724,Bergen,AS-EKMDOX,3171,Signals,A+,Colonel,OP021,Pilot,recovering,55
+Elijah,Kaul,GOV-2A4RYDS2,1968-05-04,CT-942289,George Town,AS-GBLTQU,3014,Special Forces,AB+,Captain,OP177,Sniper,recovering,81
+James,Smith,GOV-EB65H9RS,1980-04-17,CT-579126,Ahmedabad,AS-4UWYKP,3288,Signals,O-,Colonel,OP137,Drone Operator,active,6
+Kiara,Nair,GOV-2AHWTQWY,2007-10-29,CT-926770,New York,AS-3J80A8,3239,Army,O-,Corporal,OP038,Analyst,active,7
+Amelia,Miller,GOV-3R6AID0J,1980-04-12,CT-478217,Stuttgart,AS-H4TXO6,3219,Signals,A-,Brigadier,OP048,Recon,active,3
+Saanvi,Lee,GOV-H0D79I1R,1982-10-10,CT-685203,Brasília,AS-LZXKM9,3194,Army,O-,Corporal,OP179,Signals,active,3
+Lucas,Jackson,GOV-EALZPIHX,1973-02-28,CT-220070,Ahmedabad,AS-KE0D6O,3270,Navy,A-,Corporal,OP261,Sniper,active,3
+Arjun,Rao,GOV-QF0DGKTK,1974-07-04,CT-240566,Hanoi,AS-D7774G,3214,Special Forces,A-,Lieutenant,OP265,Communications,reserve,19
+Riya,Kaul,GOV-LW3SHSCA,1979-02-03,CT-504706,Giza,AS-W0TMSV,3002,Air Force,O-,Corporal,OP273,Engineer,active,3
+Riya,Johnson,GOV-TAHHYABT,1975-01-06,CT-578277,Kandy,AS-72F1C2,3114,Army,O+,Corporal,OP142,Signals,active,7
+Evelyn,Iyer,GOV-LM4Y61I0,1980-07-11,CT-107653,Beijing,AS-WCW1HY,3189,Logistics,AB-,Lieutenant,OP178,EOD,active,4
+Henry,Nair,GOV-A0IP1XDP,1974-11-03,CT-368905,Shanghai,AS-PQQCSO,3154,Medical,B-,Corporal,OP098,Drone Operator,active,6
+Isabella,Menon,GOV-TPN379UZ,1973-03-17,CT-557772,Giza,AS-HJL82D,3098,Army,AB-,Colonel,OP146,Communications,active,5
+William,Jackson,GOV-9Q14WEP1,1994-09-21,CT-653489,Singapore,AS-YGC6LJ,3085,Cyber,B+,Private,OP118,Pilot,recovering,32
+Tara,Banerjee,GOV-U50L4PUJ,1995-12-20,CT-151421,Pretoria,AS-LZSSVK,3015,Signals,AB+,Sergeant,OP050,Operator,retired,0
+Olivia,Kulkarni,GOV-H5738N1U,1981-01-08,CT-713749,Shenzhen,AS-6A3S1I,3257,Navy,O-,Private,OP184,Recon,reserve,15
+Kiara,Sharma,GOV-NQ935JLU,1980-08-25,CT-183576,Moscow,AS-09YUQ7,3276,Logistics,AB-,Private,OP179,Signals,active,1
+Elijah,Rao,GOV-R9QVFJ6Z,1971-06-20,CT-043410,São Paulo,AS-REV1NK,3237,Signals,O-,Captain,OP082,Sniper,active,3
+Aditi,Jackson,GOV-FUG2XUY5,1987-10-01,CT-971699,Lyon,AS-TBROGB,3002,Signals,AB+,Captain,OP091,Signals,active,6
+Rudra,Patel,GOV-S1LRY8BG,1983-04-14,CT-530847,Shanghai,AS-YRKPI0,3193,Medical,B-,Lieutenant,OP036,Rifleman,active,2
+Kabir,Khan,GOV-7W9ZH5CF,1980-02-03,CT-701568,Glasgow,AS-JWB2WD,3244,Medical,B-,Corporal,OP246,Pilot,active,2
+Oliver,Moore,GOV-1JKXSER7,1983-12-22,CT-530946,Singapore,AS-XWAO4T,3013,Signals,B+,Colonel,OP041,Operator,active,6
+Vihaan,Thomas,GOV-F0GICC3R,1969-05-29,CT-989170,Jaipur,AS-Q62F7Z,3100,Logistics,A+,Colonel,OP113,Recon,active,3
+Kabir,Anderson,GOV-KHH6F2N2,1997-12-01,CT-187623,Port Elizabeth,AS-I0OV1R,3053,Navy,B+,Private,OP009,EOD,active,2
+Rudra,Perez,GOV-S535J4J2,1985-06-27,CT-532855,Saint Petersburg,AS-7W9TWS,3011,Army,O-,Brigadier,OP062,Recon,reserve,15
+Diya,Patel,GOV-HCPPLP5K,1990-05-18,CT-470713,Malmö,AS-DOTC24,3259,Signals,AB+,Corporal,OP232,EOD,recovering,48
+Krishna,Patel,GOV-94RRWUMR,1988-02-27,CT-610015,Jakarta,AS-L21A4F,3178,Medical,O-,Private,OP056,EOD,active,7
+Tara,Bhat,GOV-LJVNRKYY,1991-12-11,CT-316545,Brasília,AS-4I7EQ4,3198,Army,AB+,Brigadier,OP244,Rifleman,active,6
+Evelyn,Bhat,GOV-7H9W09GQ,2009-04-18,CT-845094,Los Angeles,AS-XJ8CWJ,3209,Air Force,A+,Lieutenant,OP220,Operator,reserve,16
+Ira,Lee,GOV-ZGHCOMQC,1996-08-23,CT-469808,Colombo,AS-Q6YWJS,3296,Logistics,B+,Brigadier,OP172,Recon,active,5
+Lucas,Jones,GOV-JU70K8UL,2007-03-27,CT-210901,Guangzhou,AS-ZOZH0L,3180,Air Force,A-,Brigadier,OP152,Communications,active,1
+Saanvi,Bose,GOV-S5P9XQ1V,1972-04-30,CT-806184,Naples,AS-HA0PZG,3265,Signals,A-,Brigadier,OP276,Communications,active,1
+Liam,Singh,GOV-48894N36,1992-10-12,CT-285985,Dallas,AS-08W1MG,3208,Logistics,A-,Sergeant,OP260,Rifleman,active,6
+Benjamin,Kulkarni,GOV-VFSN509A,2007-08-20,CT-704742,Nice,AS-TTAOFT,3007,Navy,AB+,Lieutenant,OP041,Recon,active,2
+Evelyn,Jackson,GOV-6H4P0K46,1999-05-03,CT-761162,Vancouver,AS-MREETD,3068,Special Forces,A-,Brigadier,OP169,Engineer,active,3
+Krishna,Bhat,GOV-HJOZEQ4N,1989-04-23,CT-667301,Brisbane,AS-OO7KBO,3077,Special Forces,AB-,Private,OP185,Drone Operator,active,3
+Riya,Jones,GOV-Z5R1QE5D,1978-06-25,CT-383846,Leeds,AS-6VTRG1,3259,Logistics,B+,Colonel,OP157,Pilot,active,2
+Lucas,Perez,GOV-L1GHLLE1,1966-11-14,CT-854567,Surabaya,AS-FNSTOH,3005,Signals,AB-,Captain,OP029,Operator,active,2
+Liam,Lee,GOV-113GCU8W,1984-06-20,CT-235398,Calgary,AS-WSPTFX,3239,Cyber,B+,Lieutenant,OP217,Signals,retired,0
+Riya,Martin,GOV-1TRON72U,1987-12-06,CT-463634,Frankfurt,AS-ZZPYZJ,3042,Logistics,O+,Private,OP069,EOD,retired,0
+Riya,Rao,GOV-3VL0Y72B,1977-09-04,CT-344170,Houston,AS-ITZRV6,3000,Signals,B-,Colonel,OP191,Operator,active,2
+Evelyn,Williams,GOV-YCUL5FF1,1978-03-01,CT-485006,Colombo,AS-K1EE2F,3005,Cyber,AB+,Sergeant,OP200,Sniper,active,3
+Aditi,Menon,GOV-YOD91Y7V,1976-10-07,CT-185634,Kisumu,AS-3SKGKL,3013,Navy,AB-,Brigadier,OP053,Analyst,active,1
+Mia,Anderson,GOV-05OHR9TR,2005-08-30,CT-582040,Medan,AS-V1B6G7,3029,Army,O-,Corporal,OP227,Rifleman,reserve,21
+James,Miller,GOV-YZE643C3,1993-02-24,CT-886777,Pune,AS-J607BO,3287,Navy,A-,Lieutenant,OP181,Pilot,active,5
+Evelyn,Anderson,GOV-WQ8ZD9C4,1976-07-27,CT-440640,Hamburg,AS-9ZZXSB,3127,Navy,O+,Colonel,OP257,Communications,active,2
+Meera,Johnson,GOV-V8E8ZA30,1995-04-04,CT-577812,Melbourne,AS-UD74SX,3126,Air Force,AB-,Colonel,OP104,Sniper,retired,0
+Kabir,Davis,GOV-11G1K537,1966-06-18,CT-900805,Glasgow,AS-0SJI6W,3085,Navy,AB-,Colonel,OP273,Drone Operator,recovering,39
+Lucas,Bose,GOV-DY9G3S3L,1991-08-13,CT-201857,Medan,AS-FEC5CE,3071,Special Forces,A+,Sergeant,OP237,Pilot,active,5
+Emma,Thomas,GOV-BKIVVX8R,1987-02-10,CT-814441,Sharjah,AS-KIMBPC,3243,Navy,AB-,Corporal,OP148,Drone Operator,active,6
+Mia,Mukherjee,GOV-JIAGLKHU,1969-08-18,CT-416121,Valencia,AS-VLDBZS,3078,Special Forces,AB+,Sergeant,OP028,Sniper,active,3
+Emma,Brown,GOV-L9HRAZP2,1973-11-01,CT-736571,Medan,AS-IRJDA1,3167,Special Forces,AB+,Colonel,OP288,Analyst,recovering,66
+Saanvi,Patel,GOV-Q5INKIBZ,2005-06-15,CT-071842,Valencia,AS-0HPA14,3170,Air Force,AB-,Sergeant,OP262,Signals,active,2
+Vihaan,Chopra,GOV-WZ61XVML,2005-02-19,CT-895309,Abu Dhabi,AS-310CH3,3234,Army,B+,Major,OP001,Sniper,active,7
+William,Verma,GOV-3925DKHQ,1975-07-29,CT-240222,Bordeaux,AS-4P4TNV,3031,Logistics,AB+,Sergeant,OP148,EOD,active,6
+Arjun,Thompson,GOV-2M1IO9PB,1990-01-17,CT-223452,Malmö,AS-6ZW6AN,3291,Medical,O-,Sergeant,OP207,Sniper,retired,0
+Henry,Smith,GOV-SPOP7QY5,1989-09-26,CT-029946,Shenzhen,AS-GTVTJO,3119,Signals,O-,Private,OP218,EOD,active,6
+Rudra,Brown,GOV-SPZYRDKJ,1991-01-10,CT-281716,Muscat,AS-LB01H8,3283,Medical,B-,Corporal,OP026,Drone Operator,active,2
+Rudra,Miller,GOV-TR96K915,1970-11-04,CT-728128,Bengaluru,AS-NO0GPF,3053,Special Forces,B+,Private,OP075,Signals,retired,0
+Elijah,Taylor,GOV-NER3SVZX,2001-01-08,CT-049064,Ho Chi Minh City,AS-CJ2A0G,3168,Logistics,A-,Major,OP029,Sniper,retired,0
+Rudra,Bose,GOV-OALV1LF5,1998-10-08,CT-466559,Osaka,AS-KOVIHH,3272,Medical,O-,Major,OP002,Signals,reserve,16
+Krishna,Banerjee,GOV-QDF197WU,1978-03-30,CT-391497,Houston,AS-XV5MXM,3021,Army,A+,Sergeant,OP059,Signals,reserve,16
+William,Smith,GOV-7DNOXABK,1969-11-23,CT-796984,Dallas,AS-8AOO7J,3030,Signals,A+,Lieutenant,OP134,Pilot,reserve,18
+Ishaan,Singh,GOV-LK7SWNN8,2001-04-09,CT-519346,Salvador,AS-EADJEJ,3273,Air Force,B-,Major,OP278,Operator,recovering,51
+James,Miller,GOV-BNSMBDH6,1967-09-15,CT-167338,Marseille,AS-LIEBVK,3054,Medical,O+,Brigadier,OP256,Rifleman,active,2
+Sophia,Garcia,GOV-3UHSF9TY,1975-04-26,CT-200411,Pretoria,AS-BXCQ5G,3148,Signals,O-,Brigadier,OP287,Medic,reserve,10
+Henry,Kapoor,GOV-VG84G6PE,1978-08-08,CT-968804,Durban,AS-F1TB6E,3119,Navy,O-,Corporal,OP189,Engineer,active,3
+Emma,Nair,GOV-OLDMR7GO,1981-05-28,CT-928027,Saint Petersburg,AS-6RIZTN,3249,Logistics,A+,Captain,OP008,Drone Operator,active,3
+Diya,Miller,GOV-GTZ8NBGD,1977-09-23,CT-628727,Fortaleza,AS-3MCNP1,3124,Special Forces,A-,Sergeant,OP269,Signals,retired,0
+Amelia,Iyer,GOV-D0Y9Q66F,1983-09-19,CT-826074,Giza,AS-AV15GB,3112,Cyber,B+,Colonel,OP097,Analyst,active,6
+Meera,Martin,GOV-O1BI7NHZ,1982-03-29,CT-783553,Mombasa,AS-T6XN9X,3215,Special Forces,O+,Sergeant,OP199,Communications,recovering,57
+Mia,Khan,GOV-AXONIHN6,1993-07-01,CT-006279,Fukuoka,AS-TUIQRY,3044,Navy,AB-,Lieutenant,OP282,Recon,reserve,17
+Abigail,Bhat,GOV-TBMBTGGK,1968-12-10,CT-982475,Nice,AS-V6JBXP,3260,Army,B-,Private,OP275,Rifleman,active,1
+Harper,Mukherjee,GOV-TSPIO9Q0,1969-04-01,CT-202442,Birmingham,AS-TX908U,3168,Signals,AB-,Captain,OP053,Analyst,reserve,9
+Evelyn,Nair,GOV-YKKKDTBH,1999-10-29,CT-604799,Malmö,AS-UIDXDN,3066,Navy,O-,Sergeant,OP214,Recon,retired,0
+Noah,Banerjee,GOV-WPDOB2ZS,1971-11-13,CT-216137,Thessaloniki,AS-NHR4VR,3140,Medical,A-,Sergeant,OP190,Recon,active,2
+Riya,Menon,GOV-XQ8RLHQ5,2000-10-24,CT-687816,Nagoya,AS-W6IFNW,3190,Medical,O+,Lieutenant,OP285,Rifleman,reserve,7
+Sophia,Davis,GOV-ZIR1IG98,1982-06-08,CT-216012,Brasília,AS-G3PFBF,3091,Logistics,B+,Major,OP182,Medic,active,3
+Liam,Sharma,GOV-5PVCG01U,1969-05-09,CT-974093,Gothenburg,AS-U03HZ4,3127,Air Force,B-,Major,OP166,Communications,active,7
+Harper,Taylor,GOV-QGDG8SC8,1965-09-20,CT-468826,Los Angeles,AS-FT8DXI,3064,Signals,B-,Sergeant,OP295,Analyst,reserve,21
+Henry,Patel,GOV-YSF0HH79,1997-12-28,CT-924768,Melbourne,AS-RNMR2N,3208,Army,A-,Colonel,OP179,Pilot,recovering,34
+Liam,Martinez,GOV-OQFNUECD,1978-06-06,CT-586353,George Town,AS-847QPF,3057,Navy,B-,Lieutenant,OP019,Analyst,retired,0
+Lucas,Wilson,GOV-6W8S4Z8V,2007-11-19,CT-913386,Ho Chi Minh City,AS-UC3YKK,3061,Air Force,A-,Corporal,OP258,Medic,reserve,11
+Aarav,Moore,GOV-8LLDH11Y,1992-12-16,CT-963387,Hanoi,AS-PTGB9X,3068,Special Forces,B-,Lieutenant,OP143,Signals,recovering,82
+Rudra,Thompson,GOV-8CTC0J1I,1992-03-18,CT-467338,Doha,AS-Q2FLLE,3249,Air Force,O-,Corporal,OP257,Analyst,active,4
+Tara,Bhat,GOV-MORKI2H2,1972-07-14,CT-501890,Frankfurt,AS-7V1Y70,3061,Cyber,O+,Major,OP201,Engineer,active,1
+James,Lee,GOV-REYOLKIA,1984-05-06,CT-781489,Barcelona,AS-50G0C0,3197,Logistics,AB+,Private,OP213,Engineer,reserve,12
+Rudra,Martin,GOV-M5AK4Q86,1984-03-24,CT-501965,Bandung,AS-56K98N,3089,Cyber,AB-,Brigadier,OP092,Recon,recovering,55
+Emma,Nair,GOV-M2D0NI2P,1997-10-02,CT-270258,Ahmedabad,AS-N39Q0S,3061,Special Forces,O-,Brigadier,OP123,Medic,active,4
+Ira,Mukherjee,GOV-XXIYKR38,2004-10-26,CT-556266,Vancouver,AS-IN22UK,3007,Army,O+,Colonel,OP289,Pilot,retired,0
+Vihaan,Anderson,GOV-IFBIPTGB,2002-06-10,CT-909838,Bandung,AS-5VMEUZ,3137,Air Force,O-,Major,OP255,Drone Operator,active,2
+Arjun,Sharma,GOV-27G0JBC0,1997-08-14,CT-281129,Seville,AS-XGRDOF,3196,Army,AB+,Major,OP205,EOD,active,3
+Aditya,Smith,GOV-SR13ES6O,1969-12-22,CT-115703,Seville,AS-3TUOR6,3105,Special Forces,A+,Lieutenant,OP172,Drone Operator,recovering,44
+Alexander,Patel,GOV-L37NSPRR,1976-03-20,CT-841969,Durban,AS-E26OGF,3257,Navy,AB-,Brigadier,OP087,Analyst,reserve,8
+Abigail,Nair,GOV-Z4MIDNYF,1993-11-07,CT-126288,Paris,AS-UXZRKA,3272,Special Forces,AB-,Major,OP142,Signals,active,5
+Lucas,Verma,GOV-YTE4UIEB,1975-11-27,CT-406784,Vancouver,AS-XH0UB6,3177,Medical,AB-,Lieutenant,OP030,Sniper,retired,0
+Meera,Thomas,GOV-J6L98BX5,1989-01-15,CT-389253,George Town,AS-UDIL6I,3050,Special Forces,A-,Corporal,OP242,Operator,active,5
+Benjamin,Bose,GOV-R8J6IU93,1986-02-06,CT-838052,Valencia,AS-UBBLO3,3133,Logistics,A-,Private,OP151,Pilot,retired,0
+Riya,Davis,GOV-37KRCMEM,1981-10-30,CT-081530,Melbourne,AS-GYRN9M,3135,Special Forces,A+,Lieutenant,OP234,Drone Operator,active,2
+Kiara,Jackson,GOV-2VT9F3O4,1973-08-23,CT-866777,Tokyo,AS-LA0XWL,3063,Logistics,AB+,Major,OP068,Analyst,retired,0
+Riya,Chopra,GOV-LZYSW0AK,1978-12-15,CT-383937,Calgary,AS-S2FSYH,3122,Signals,B-,Colonel,OP208,Medic,active,2
+Arjun,Taylor,GOV-NIAGSF41,2001-05-09,CT-957881,Montreal,AS-7NE161,3027,Signals,O+,Lieutenant,OP171,Rifleman,retired,0
+Rudra,Chopra,GOV-FT4XCGXI,2004-09-08,CT-520630,Shanghai,AS-TFR3G8,3174,Signals,A-,Colonel,OP035,Operator,reserve,19
+Arjun,Mukherjee,GOV-T1T4755A,1974-01-10,CT-942172,Tokyo,AS-UC3I96,3252,Air Force,O+,Major,OP199,Sniper,active,6
+Emma,Smith,GOV-DZJWBK0O,1976-10-28,CT-133851,Moscow,AS-U5BUQX,3058,Navy,AB-,Major,OP035,Rifleman,active,7
+Harper,Mukherjee,GOV-8B04TRW4,1969-12-03,CT-688507,Mombasa,AS-BKAUMR,3131,Special Forces,A+,Lieutenant,OP089,EOD,recovering,62
+Emma,Jones,GOV-2GI7SPWV,1992-06-06,CT-022655,Toronto,AS-4DTYI4,3090,Army,A-,Major,OP243,Signals,active,7
+Krishna,Wilson,GOV-I1URM1H2,1998-03-27,CT-141616,Munich,AS-JH9VWV,3118,Army,O-,Corporal,OP274,Communications,reserve,10
+Ava,Rodriguez,GOV-4JVY5U5L,1973-04-12,CT-591965,Fukuoka,AS-OXANLI,3175,Special Forces,B-,Captain,OP263,Signals,active,7
+Ishaan,Mukherjee,GOV-YB57WLFV,1984-10-03,CT-596331,Beijing,AS-OSVXI6,3202,Air Force,O-,Corporal,OP043,Rifleman,reserve,14
+Mia,Jones,GOV-WQUM0AAU,1980-04-01,CT-201444,London,AS-Z5PZ4Q,3143,Army,AB-,Sergeant,OP294,Operator,recovering,54
+Liam,Verma,GOV-4GNTLYJ5,2006-08-14,CT-641943,Athens,AS-4U7UD8,3295,Air Force,O-,Corporal,OP050,Engineer,active,2
+Liam,Thompson,GOV-YQP6OWLV,1995-09-30,CT-752155,Pune,AS-2GT7EE,3017,Logistics,AB-,Brigadier,OP020,Signals,recovering,82
+Sophia,Davis,GOV-BPULK8GG,1987-10-31,CT-554245,Vancouver,AS-2E1B68,3269,Air Force,O+,Lieutenant,OP083,Engineer,active,5
+Sai,Williams,GOV-HLIUSAHP,1966-11-18,CT-200904,Birmingham,AS-ZUY21J,3038,Logistics,AB-,Colonel,OP196,Medic,recovering,34
+Rudra,Jackson,GOV-QUEYY4WZ,1996-12-04,CT-783443,São Paulo,AS-B9K8TT,3166,Air Force,O+,Private,OP051,Analyst,reserve,7
+Harper,Brown,GOV-0SGEO0T8,2000-04-20,CT-946724,Izmir,AS-7VTIJ8,3258,Air Force,A+,Major,OP276,EOD,active,1
+Emma,Jackson,GOV-GS6FA6S9,1982-12-08,CT-630274,Malmö,AS-F8QJ0N,3126,Navy,O+,Captain,OP290,Analyst,active,5
+Aditi,Patel,GOV-SM9WZJXK,1979-07-01,CT-771683,Leeds,AS-88ZHHB,3215,Logistics,A+,Colonel,OP045,Engineer,recovering,61
+Elijah,Rao,GOV-W3ZWHGGB,1989-11-17,CT-031872,Adelaide,AS-1HWWWC,3105,Army,AB-,Corporal,OP147,Operator,active,2
+Vivaan,Bose,GOV-DADD2W58,1978-08-19,CT-809959,Pune,AS-63Q17F,3182,Air Force,O+,Colonel,OP258,Analyst,active,7
+Ananya,Reddy,GOV-SG89E2GO,1989-04-19,CT-050663,Bordeaux,AS-D6KHAS,3217,Special Forces,AB+,Brigadier,OP222,EOD,retired,0
+Vivaan,Bose,GOV-5LOL39ZC,2006-10-12,CT-763177,Abu Dhabi,AS-UQIVPK,3098,Air Force,AB+,Lieutenant,OP147,Rifleman,active,1
+Arjun,Wilson,GOV-7DTJ74SW,1976-07-23,CT-984827,Istanbul,AS-2JNG4W,3083,Signals,A-,Lieutenant,OP019,Sniper,active,3
+Ava,Mukherjee,GOV-GRRMAANL,1994-01-14,CT-702422,Kuala Lumpur,AS-14V7KS,3240,Logistics,AB-,Major,OP038,Sniper,active,1
+Ishaan,Martin,GOV-PX0PP5L9,1984-10-02,CT-991289,Brasília,AS-PM28C8,3024,Signals,O-,Major,OP202,Rifleman,active,6
+Olivia,Verma,GOV-E0Z63LRF,1977-09-04,CT-566791,New York,AS-P53MTU,3219,Special Forces,AB+,Sergeant,OP213,Medic,active,3
+Vihaan,Reddy,GOV-2BQ6VXXH,2002-03-03,CT-687739,Munich,AS-GL9NZV,3193,Medical,AB-,Private,OP116,EOD,reserve,10
+Aditya,Brown,GOV-GHVNHUWI,1997-09-02,CT-248146,Trondheim,AS-U6GX8H,3002,Air Force,A-,Colonel,OP136,Analyst,active,5
+Aditya,Perez,GOV-M0OZYDZQ,1969-12-20,CT-983853,Stockholm,AS-2G4IL2,3128,Air Force,AB-,Captain,OP110,Operator,active,5
+Harper,Kapoor,GOV-JKJ802GW,1969-09-12,CT-776897,Hanoi,AS-7WKKSJ,3224,Cyber,B+,Major,OP222,Recon,recovering,50
+James,Thompson,GOV-VCMHATE2,1984-12-01,CT-600449,Sydney,AS-I8FZCN,3129,Air Force,A+,Major,OP017,Communications,recovering,80
+Noah,Mukherjee,GOV-LF1M0CV9,1982-02-09,CT-014372,Melbourne,AS-M0NQRL,3189,Cyber,O+,Brigadier,OP168,Medic,active,7
+Harper,Sharma,GOV-X6EXP3SN,1998-12-03,CT-295006,Galle,AS-MLATHV,3059,Army,B-,Sergeant,OP286,Rifleman,retired,0
+Aditya,Miller,GOV-92C89XMZ,1968-08-25,CT-174233,Salvador,AS-NSGFXY,3135,Cyber,B+,Private,OP079,Signals,retired,0
+Vihaan,Reddy,GOV-QTG7VF1M,1975-01-18,CT-989486,Tokyo,AS-BD6KBN,3114,Navy,B-,Brigadier,OP032,Medic,active,5
+Zara,Menon,GOV-LUA7K2J9,1996-11-04,CT-907684,Munich,AS-9KRH06,3211,Signals,AB+,Lieutenant,OP027,Operator,active,7
+Krishna,Taylor,GOV-AC9ZW0CD,2005-04-04,CT-345556,Toronto,AS-00IRAA,3298,Logistics,O+,Private,OP229,Operator,active,6
+Aarav,Jones,GOV-3T8ZFWC8,1972-09-02,CT-740612,Giza,AS-S8XKDT,3179,Medical,B-,Private,OP078,Analyst,reserve,21
+Sai,Kapoor,GOV-JEMPII1D,1965-06-29,CT-031959,Bandung,AS-ZGH6Y7,3156,Air Force,AB+,Sergeant,OP078,Rifleman,active,4
+Meera,Reddy,GOV-DAY8PWHN,2002-06-25,CT-398981,Cairo,AS-B0JMX2,3194,Army,AB+,Private,OP221,Rifleman,active,1
+Diya,Garcia,GOV-18PMKI64,1987-10-29,CT-568958,Shenzhen,AS-EDPE7Z,3228,Signals,O+,Private,OP213,Sniper,recovering,42
+Oliver,Kapoor,GOV-DU14RASA,1994-05-27,CT-281635,Trondheim,AS-CF1H24,3109,Signals,A+,Private,OP205,EOD,active,7
+Oliver,Davis,GOV-MQFL1ACG,1995-11-24,CT-324012,Leeds,AS-OH1D20,3080,Army,B-,Private,OP246,Signals,reserve,16
+Vihaan,Smith,GOV-KHES6O5V,1999-05-11,CT-373215,Fortaleza,AS-QGZ7SJ,3233,Signals,AB+,Captain,OP274,Communications,reserve,20
+Elijah,Mukherjee,GOV-AQDPACGJ,1980-01-01,CT-108545,Delhi,AS-MS4GUB,3056,Medical,AB+,Colonel,OP217,EOD,active,7
+Saanvi,Verma,GOV-VAMBBI9U,1983-04-29,CT-459764,George Town,AS-83WE3B,3194,Navy,O+,Colonel,OP014,Drone Operator,retired,0
+Amelia,Davis,GOV-VRQ1F0QH,1993-07-17,CT-840759,São Paulo,AS-TGZ1RS,3286,Air Force,A-,Captain,OP107,Analyst,active,3
+Abigail,Davis,GOV-TY4K4GTT,1984-09-06,CT-823967,Bordeaux,AS-4D0NA8,3151,Air Force,B-,Major,OP052,Drone Operator,active,7
+Rudra,Verma,GOV-UO9RVNNF,1999-05-06,CT-471264,Beijing,AS-WPUQ2J,3000,Army,A-,Captain,OP001,Pilot,active,6
+Noah,Perez,GOV-LD9AUAE7,2007-08-16,CT-409622,Stockholm,AS-URVOEA,3163,Medical,A-,Major,OP004,Pilot,retired,0
+Ishaan,Garcia,GOV-ZDEQ7CM1,1979-06-03,CT-996415,Tampere,AS-840CG8,3251,Army,AB-,Major,OP139,Medic,active,5
+Ava,Kapoor,GOV-G4FZTIO4,1987-02-25,CT-525167,Vancouver,AS-KXMXAM,3240,Navy,O-,Lieutenant,OP177,Medic,reserve,11
+Aditi,Kulkarni,GOV-6K08BWV0,1965-02-06,CT-899283,Hyderabad,AS-GIEHB0,3154,Army,AB+,Captain,OP076,Engineer,recovering,49
+Kabir,Martinez,GOV-K13XVAW0,2004-09-26,CT-484061,Medan,AS-9IBKGD,3105,Cyber,O+,Sergeant,OP300,Recon,reserve,13
+Riya,Rodriguez,GOV-FB8LZ548,1983-09-07,CT-149336,Houston,AS-EULFK4,3114,Air Force,O-,Colonel,OP279,Pilot,reserve,18
+Evelyn,Sharma,GOV-ZGSCZ4RK,2003-10-24,CT-289873,Busan,AS-ZRUAWZ,3218,Cyber,B-,Sergeant,OP137,Sniper,retired,0
+Tara,Brown,GOV-OP710HND,1981-05-19,CT-453082,Johor Bahru,AS-6EKBTC,3150,Cyber,B-,Sergeant,OP223,Engineer,reserve,12
+Evelyn,Reddy,GOV-76U8VN3S,1980-07-22,CT-351141,Nice,AS-053AWF,3118,Logistics,AB+,Corporal,OP231,Signals,active,3
+Oliver,Thompson,GOV-KGF14BCD,2006-06-05,CT-700200,Alexandria,AS-09NM7E,3242,Army,O+,Captain,OP191,Operator,reserve,11
+Krishna,Das,GOV-KJBTJRD3,1970-07-15,CT-201257,Ottawa,AS-2GP6S4,3045,Cyber,A+,Corporal,OP123,EOD,retired,0
+Arjun,Johnson,GOV-GWRLKEVV,1980-06-28,CT-292169,Seoul,AS-6H0F3A,3059,Special Forces,O-,Captain,OP093,Engineer,reserve,16
+Henry,Rao,GOV-RDBP8VNV,1985-09-29,CT-930700,Shenzhen,AS-D4QFTC,3121,Cyber,AB-,Brigadier,OP105,Operator,active,5
+Zara,Anderson,GOV-O2JXKRMO,1966-10-22,CT-372535,Ottawa,AS-BH3C9X,3296,Air Force,B-,Corporal,OP246,Medic,active,6
+Emma,Johnson,GOV-IJB5YY70,1989-05-02,CT-558274,Durban,AS-ZIS6O3,3238,Logistics,B+,Brigadier,OP286,EOD,recovering,56
+Zara,Lee,GOV-CG3LEYXX,1969-12-30,CT-556021,Seattle,AS-IZMPTA,3000,Medical,O-,Private,OP207,EOD,active,6
+Meera,Taylor,GOV-76MFRGYH,2005-11-01,CT-985478,Brisbane,AS-YRL9Z6,3223,Medical,A+,Private,OP270,Rifleman,active,5
+Olivia,Brown,GOV-0V43233M,2001-06-27,CT-103268,Al Rayyan,AS-F8FYBH,3196,Signals,O+,Captain,OP044,Engineer,recovering,82
+Ira,Khan,GOV-9QIBERCG,1980-12-02,CT-902747,Bristol,AS-5BK1PQ,3265,Air Force,B+,Brigadier,OP190,Engineer,recovering,33
+Oliver,Rodriguez,GOV-8GUTCACN,1995-02-21,CT-261268,Brisbane,AS-KE3HXI,3002,Air Force,B-,Private,OP288,Engineer,retired,0
+Kabir,Thompson,GOV-ZVJYV0TS,2008-01-18,CT-784279,Nairobi,AS-IFOCUU,3052,Special Forces,O-,Captain,OP160,Medic,active,3
+Lucas,Thomas,GOV-942F3O22,1991-03-20,CT-500597,Turin,AS-ZVSJMG,3237,Logistics,O-,Brigadier,OP132,Recon,retired,0
+Kabir,Gupta,GOV-XNGDI5LO,1983-05-19,CT-431554,Chennai,AS-KJVBGF,3274,Cyber,O-,Sergeant,OP191,Engineer,active,4
+Emma,Brown,GOV-9SSMJ56N,1983-03-07,CT-921002,Seville,AS-T0NOS6,3183,Special Forces,A-,Lieutenant,OP103,Sniper,active,4
+Elijah,Jones,GOV-GI6JA9Q1,1992-01-25,CT-768941,Salvador,AS-CERLNS,3124,Army,O+,Sergeant,OP188,Medic,recovering,44
+Krishna,Sharma,GOV-5E7FA9EY,1969-05-20,CT-719511,Adelaide,AS-6H2PGL,3298,Army,AB-,Corporal,OP109,EOD,active,4
+Vihaan,Iyer,GOV-SNGAFB8Q,1971-09-18,CT-036081,Pretoria,AS-A8IBBG,3063,Signals,B+,Corporal,OP138,Engineer,recovering,72
+Sophia,Johnson,GOV-ZXA52UHY,2005-09-16,CT-095178,Boston,AS-0OQQKI,3019,Signals,A+,Corporal,OP218,Recon,retired,0
+William,Martin,GOV-9YQVJ046,1998-03-27,CT-560751,Saint Petersburg,AS-HCJALK,3082,Signals,A-,Corporal,OP080,Sniper,active,2
+Oliver,Jones,GOV-N82T36KX,1991-10-20,CT-416692,Ahmedabad,AS-4YGLUK,3026,Cyber,AB-,Major,OP187,Analyst,reserve,17
+Olivia,Smith,GOV-UNMG2RS3,1982-05-19,CT-810412,Mombasa,AS-XQMX51,3020,Cyber,AB-,Sergeant,OP184,Signals,recovering,72
+Henry,Jones,GOV-VMK9J8PQ,1965-12-12,CT-299665,Munich,AS-7AINHO,3284,Logistics,B+,Sergeant,OP270,Medic,active,3
+Vihaan,Menon,GOV-ETMMZMA7,1977-06-02,CT-683934,Beijing,AS-GP2QA8,3127,Special Forces,B+,Major,OP162,Medic,active,3
+William,Johnson,GOV-CRQ3KQYA,1988-09-22,CT-715114,Frankfurt,AS-1GBFHG,3251,Navy,A+,Colonel,OP053,EOD,active,2
+James,Khan,GOV-Z69D5NUO,1996-05-16,CT-176749,Montreal,AS-QS2SU5,3073,Special Forces,O+,Lieutenant,OP106,Medic,active,1
+Riya,Smith,GOV-JNRS33O7,1993-04-19,CT-838748,Moscow,AS-AUEAV0,3066,Special Forces,AB+,Lieutenant,OP296,Medic,active,1
+Sai,Smith,GOV-9P00UQ20,1977-08-28,CT-390802,Perth,AS-ALDCT0,3070,Army,O+,Captain,OP250,Pilot,active,6
+Evelyn,Jones,GOV-DTIS9MPW,1990-06-27,CT-957147,Bergen,AS-D6FOBR,3114,Cyber,A+,Lieutenant,OP270,Rifleman,active,1
+Saanvi,Rao,GOV-572AWTEY,1971-03-23,CT-921464,Pune,AS-2U91F9,3292,Navy,B+,Private,OP032,Engineer,recovering,62
+Emma,Khan,GOV-X6H34XE7,2008-05-05,CT-292349,Surabaya,AS-BB55BX,3190,Air Force,O-,Private,OP264,Communications,active,4
+Olivia,Miller,GOV-AJPB32BI,1996-03-05,CT-393292,Da Nang,AS-QLVVQ5,3280,Army,A+,Corporal,OP143,Recon,reserve,13
+Arjun,Menon,GOV-RB1IC0CB,1979-09-11,CT-016331,Tokyo,AS-OO8QPY,3261,Navy,O+,Colonel,OP030,EOD,reserve,7
+Krishna,Das,GOV-ZRKGTASR,1987-06-17,CT-365845,Thessaloniki,AS-ZKFA9Z,3205,Air Force,AB-,Captain,OP063,Communications,reserve,13
+Vivaan,Garcia,GOV-WTVCUCZ7,1983-09-18,CT-638416,Turin,AS-9W3X0F,3195,Cyber,B+,Lieutenant,OP091,Analyst,reserve,19
+Liam,Reddy,GOV-3YEYYT82,2007-05-24,CT-266013,Oslo,AS-ORA1QS,3252,Air Force,AB+,Private,OP151,Signals,retired,0
+Henry,Bose,GOV-3L4YXJZE,1993-07-27,CT-721288,Chicago,AS-BLVS9V,3237,Medical,O-,Major,OP005,Operator,active,6
+Olivia,Anderson,GOV-LBTVXYLF,1984-03-20,CT-772611,Osaka,AS-95FAPI,3062,Medical,B+,Sergeant,OP290,Rifleman,recovering,36
+Benjamin,Brown,GOV-VU6FWWBW,1998-03-22,CT-039494,Miami,AS-AVMN7L,3274,Special Forces,A+,Colonel,OP034,EOD,recovering,66
+Ananya,Brown,GOV-A2RIWETD,1969-08-10,CT-863211,Dubai,AS-UF4F1M,3259,Logistics,B+,Brigadier,OP265,Communications,retired,0
+Alexander,Wilson,GOV-I47FM1CP,1987-10-21,CT-291653,Perth,AS-5LOHJZ,3161,Army,B-,Brigadier,OP161,EOD,active,5
+Isabella,Martin,GOV-3KNRZY86,1994-11-30,CT-664685,Kisumu,AS-0FTW9Z,3273,Signals,AB+,Brigadier,OP295,Engineer,active,5
+Evelyn,Nair,GOV-3A28B63A,1977-11-07,CT-975822,Da Nang,AS-DI6ULO,3144,Logistics,O-,Captain,OP021,Engineer,active,6
+Sophia,Martinez,GOV-5AB3PYPW,1968-12-12,CT-891885,Beijing,AS-I7C52W,3063,Army,AB-,Private,OP187,Rifleman,recovering,61
+Sophia,Banerjee,GOV-KP4E0GER,1970-08-20,CT-738483,San Francisco,AS-28OI2J,3222,Signals,AB-,Sergeant,OP129,Pilot,active,6
+Riya,Menon,GOV-UZ5X5Y95,2008-04-07,CT-609498,Chennai,AS-IN7DDU,3281,Army,A+,Captain,OP160,Engineer,retired,0
+Noah,Bose,GOV-SA5VQW9V,1992-12-03,CT-387880,Kandy,AS-WKSEQ2,3164,Army,AB-,Private,OP008,Recon,active,3
+Zara,Nair,GOV-B2HD8O6R,1996-04-03,CT-941444,Pretoria,AS-6HOT91,3102,Air Force,AB-,Captain,OP258,Sniper,active,3
+Alexander,Banerjee,GOV-VTS6U3LV,1967-07-11,CT-775848,Stockholm,AS-88OQPF,3186,Logistics,AB-,Lieutenant,OP167,Pilot,active,5
+Kabir,Mukherjee,GOV-R0GZERDQ,1975-10-01,CT-882445,Valencia,AS-RQAXJK,3239,Army,B+,Brigadier,OP053,Sniper,retired,0
+Henry,Chopra,GOV-S2N7ZKJO,2005-08-17,CT-862443,Johor Bahru,AS-DVS3KZ,3140,Logistics,O-,Lieutenant,OP148,Signals,active,1
+Henry,Kulkarni,GOV-8YSODEKX,2000-04-09,CT-205613,Paris,AS-Q8S8KG,3056,Special Forces,AB-,Private,OP021,Signals,retired,0
+Noah,Jackson,GOV-I9SA51RW,1969-06-10,CT-713915,Doha,AS-1VEZIR,3035,Special Forces,B-,Sergeant,OP254,Pilot,reserve,21
+Isabella,Garcia,GOV-DHRFSRNP,1988-08-27,CT-273781,Athens,AS-AC1SC1,3244,Special Forces,A-,Private,OP240,Operator,reserve,19
+Emma,Banerjee,GOV-S2MRRFJZ,1990-04-26,CT-529809,Hamburg,AS-I89F8Y,3232,Army,AB-,Private,OP015,Analyst,recovering,77
+Evelyn,Taylor,GOV-UESFLF5J,1989-10-11,CT-512093,Delhi,AS-V6O0YN,3167,Signals,A+,Sergeant,OP069,Communications,retired,0
+Benjamin,Rao,GOV-PRNM36XY,2004-10-17,CT-770227,Guangzhou,AS-TF681M,3216,Air Force,A-,Captain,OP166,EOD,active,1
+Rudra,Martinez,GOV-690WI6CD,2003-05-19,CT-692369,London,AS-99ZHUC,3184,Army,O+,Sergeant,OP183,EOD,retired,0
+Alexander,Gupta,GOV-NFPELW9P,2002-03-17,CT-758087,Doha,AS-4M3DMT,3213,Logistics,B-,Private,OP127,Medic,recovering,44
+Mia,Nair,GOV-8WN80O3W,1981-01-27,CT-757832,Toronto,AS-U0682G,3026,Medical,B-,Sergeant,OP183,Analyst,retired,0
+William,Garcia,GOV-VZNWT0N2,1979-09-24,CT-356167,Miami,AS-EKTSGU,3251,Cyber,A-,Captain,OP109,Sniper,active,5
+Meera,Bhat,GOV-O579VTJI,1966-05-10,CT-234854,Delhi,AS-193ARY,3240,Logistics,A-,Major,OP097,Analyst,active,5
+Tara,Iyer,GOV-F031Q1E9,2009-09-28,CT-562054,Manchester,AS-2ZS4QL,3127,Special Forces,B-,Major,OP200,EOD,active,2
+Ava,Davis,GOV-1SKJ824H,1973-07-27,CT-930243,Al Rayyan,AS-C7IXYA,3098,Air Force,O+,Private,OP049,Signals,reserve,13
+Rudra,Thompson,GOV-OZMY596A,1966-11-24,CT-813138,Liverpool,AS-PLMWTO,3097,Army,AB-,Sergeant,OP186,EOD,reserve,16
+Aarav,Kapoor,GOV-9O72QFLR,2006-09-17,CT-394470,Muscat,AS-WI48LI,3274,Signals,AB-,Brigadier,OP113,Drone Operator,active,1
+James,Sharma,GOV-YDODP9S1,1981-10-31,CT-856784,Hyderabad,AS-45C10R,3229,Medical,O-,Corporal,OP157,Drone Operator,active,1
+Aarav,Smith,GOV-IB6AZDE8,1980-10-18,CT-429167,Lucknow,AS-HJ64LP,3009,Special Forces,B-,Lieutenant,OP269,Sniper,active,2
+Noah,Williams,GOV-0IRKS9X2,2001-09-11,CT-267458,Shenzhen,AS-0DFXHV,3232,Special Forces,O+,Brigadier,OP251,Signals,active,1
+Alexander,Menon,GOV-6AZK7ETR,1987-06-15,CT-937557,Boston,AS-GQ1U80,3188,Medical,A-,Colonel,OP124,Analyst,active,2
+Krishna,Martinez,GOV-0TYHYZBF,1988-09-25,CT-581794,Chicago,AS-4X074W,3225,Logistics,A+,Captain,OP102,Recon,active,2
+Kabir,Anderson,GOV-39S932H4,1991-08-30,CT-481937,Melbourne,AS-7VQKX4,3090,Army,O-,Private,OP152,Pilot,active,5
+Ananya,Das,GOV-YZM4OJBP,1966-10-20,CT-954331,Fukuoka,AS-LXSXL7,3132,Special Forces,O+,Sergeant,OP275,Engineer,recovering,65
+Sophia,Iyer,GOV-B9D2RBLZ,1975-03-28,CT-919447,Jakarta,AS-2V7082,3012,Navy,O-,Major,OP215,EOD,active,4
+Isabella,Rao,GOV-GS19UT6P,1987-09-10,CT-219374,Berlin,AS-EJQZMC,3298,Cyber,B+,Corporal,OP004,EOD,active,6
+Riya,Singh,GOV-DSZV0ISL,1999-01-24,CT-365723,Tampere,AS-MNXQE7,3021,Special Forces,O+,Brigadier,OP300,Pilot,active,4
+Ananya,Jones,GOV-042QLF6B,1978-06-12,CT-905535,Osaka,AS-QE0WHE,3201,Medical,A+,Sergeant,OP195,Pilot,reserve,10
+Sai,Sharma,GOV-WXTBAC8O,1978-04-11,CT-191048,Bergen,AS-249GCG,3169,Signals,O-,Brigadier,OP181,Drone Operator,active,5
+Noah,Chopra,GOV-K525K7QI,1986-04-26,CT-980729,Doha,AS-N4K4T1,3157,Navy,O-,Lieutenant,OP086,Drone Operator,active,1
+Benjamin,Anderson,GOV-I2O1NMFV,2003-11-12,CT-194056,Miami,AS-5I6SVB,3065,Navy,AB-,Private,OP067,Pilot,retired,0
+Zara,Rao,GOV-U85NXKPO,1995-02-03,CT-579433,Ottawa,AS-CODVEU,3240,Signals,A+,Lieutenant,OP210,Signals,active,4
+Vivaan,Miller,GOV-XG2BH2SF,1977-10-04,CT-139691,Bandung,AS-INJG8K,3238,Navy,AB+,Private,OP137,Communications,recovering,31
+Alexander,Garcia,GOV-0D94ZA2P,1972-02-20,CT-801752,Cape Town,AS-VCZN1V,3081,Special Forces,AB-,Captain,OP012,Drone Operator,active,5
+Meera,Rodriguez,GOV-T15844ST,1970-02-24,CT-989478,Cape Town,AS-NZ0IOD,3176,Special Forces,A-,Captain,OP204,Pilot,active,4
+Amelia,Reddy,GOV-023FO1NO,1990-09-03,CT-829053,Istanbul,AS-FXTPUI,3130,Navy,B+,Private,OP059,Signals,active,4
+Henry,Banerjee,GOV-RFWHWN0Z,1986-05-09,CT-312679,Salalah,AS-0ZZV4C,3154,Signals,A-,Colonel,OP053,EOD,recovering,64
+Noah,Banerjee,GOV-6RKOVPJQ,1971-09-20,CT-568481,Rio de Janeiro,AS-ZGQOR9,3269,Signals,AB-,Sergeant,OP155,Communications,recovering,87
+Aditi,Martinez,GOV-LFVWCIK6,2003-09-21,CT-727485,Ho Chi Minh City,AS-0DKK25,3009,Navy,O+,Corporal,OP145,Communications,active,7
+Emma,Williams,GOV-056F3Y2P,2001-09-13,CT-165546,Tokyo,AS-3PO39J,3192,Special Forces,O-,Corporal,OP223,Recon,active,7
+Riya,Wilson,GOV-X6YFHWV8,2004-10-24,CT-871577,Toronto,AS-RDV9H6,3199,Army,B-,Major,OP113,Communications,reserve,16
+Saanvi,Miller,GOV-PCM0A8J9,1972-12-19,CT-442837,Alexandria,AS-BGYKNE,3074,Army,A+,Private,OP085,Operator,active,2
+Sophia,Johnson,GOV-AR5LOH3F,1985-09-15,CT-596445,Durban,AS-00WXGT,3188,Air Force,B-,Major,OP039,Engineer,recovering,89
+Arjun,Martinez,GOV-D7WN50U8,1997-10-04,CT-964396,Tokyo,AS-698PFH,3006,Cyber,B+,Brigadier,OP032,Rifleman,reserve,17
+Evelyn,Thompson,GOV-610NL0C6,2000-05-01,CT-073435,Shenzhen,AS-YCCEOX,3240,Navy,O+,Private,OP233,Drone Operator,active,4
+Olivia,Nair,GOV-Z6J0HTRX,2003-01-31,CT-783214,Phoenix,AS-BGM422,3020,Cyber,O+,Lieutenant,OP257,Engineer,active,1
+Diya,Gupta,GOV-W84XT95C,1993-06-27,CT-492454,Salvador,AS-9ZO2HX,3145,Special Forces,AB+,Colonel,OP058,Operator,retired,0
+Isabella,Davis,GOV-8MZPFOZ1,1993-09-01,CT-150229,Mumbai,AS-LJA6CL,3112,Medical,AB-,Captain,OP178,Analyst,active,3
+Abigail,Verma,GOV-ZJ4R8GB5,1996-09-28,CT-485305,Seoul,AS-9GHZ60,3252,Cyber,AB+,Lieutenant,OP027,Sniper,active,2
+Meera,Chopra,GOV-3EI7F5IV,1983-09-16,CT-793476,Ahmedabad,AS-YD55NV,3286,Army,A+,Corporal,OP007,Medic,active,7
+Henry,Perez,GOV-M5YAUQFU,1976-08-11,CT-900262,Adelaide,AS-HQUU0T,3283,Air Force,B-,Colonel,OP174,Drone Operator,reserve,13
+Elijah,Gupta,GOV-RGT8FAX4,1977-08-08,CT-909813,Delhi,AS-Z3REW5,3102,Logistics,B-,Private,OP059,Drone Operator,active,3
+Kiara,Sharma,GOV-QFVCYLES,1980-05-29,CT-113246,Brisbane,AS-K34HO5,3062,Medical,B+,Private,OP285,Communications,retired,0

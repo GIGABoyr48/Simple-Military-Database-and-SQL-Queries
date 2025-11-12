@@ -1,0 +1,31 @@
+Alert_Code,Operation_ID,Severity,Description
+AL100,OP186,3,Weather deterioration
+AL101,OP109,6,Possible ambush zone
+AL102,OP045,5,"Route unsafe, reroute"
+AL103,OP171,6,Artillery incoming warning
+AL104,OP232,10,Weather deterioration
+AL105,OP111,2,Unidentified radio chatter
+AL106,OP241,3,Supply line disruption
+AL107,OP009,8,"Route unsafe, reroute"
+AL108,OP015,7,Unidentified radio chatter
+AL109,OP229,6,Weather deterioration
+AL110,OP259,5,Drone signal lost
+AL111,OP282,4,Artillery incoming warning
+AL112,OP115,6,Supply line disruption
+AL113,OP299,3,Enemy movement detected
+AL114,OP192,1,"Route unsafe, reroute"
+AL115,OP231,3,Drone signal lost
+AL116,OP147,9,Supply line disruption
+AL117,OP063,10,Drone signal lost
+AL118,OP240,4,Thermal signature detected
+AL119,OP102,7,Possible ambush zone
+AL120,OP270,3,Supply line disruption
+AL121,OP076,5,"Route unsafe, reroute"
+AL122,OP125,6,"Route unsafe, reroute"
+AL123,OP289,6,High-risk zone ahead
+AL124,OP053,1,Drone signal lost
+AL125,OP099,10,Enemy movement detected
+AL126,OP105,2,High-risk zone ahead
+AL127,OP291,5,High-risk zone ahead
+AL128,OP240,8,Possible ambush zone
+AL129,OP111,8,Artillery incoming warning
